@@ -1,0 +1,237 @@
+0     INFO  [main] main.CloudFab - Max Memory: 2147483648
+1980  INFO  [main] annotations.Version - Hibernate Annotations 3.3.1.GA
+1997  INFO  [main] cfg.Environment - Hibernate 3.2.5
+2000  INFO  [main] cfg.Environment - hibernate.properties not found
+2002  INFO  [main] cfg.Environment - Bytecode provider name : cglib
+2006  INFO  [main] cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2055  INFO  [main] ejb.Version - Hibernate EntityManager 3.3.2.GA
+3359  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.model.runtime
+3393  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.tools.xjc.addon.episode
+3395  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.tools.xjc.reader.xmlschema.bindinfo
+3396  INFO  [main] cfg.AnnotationConfiguration - Mapping package javax.xml.ws.wsaddressing
+3396  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.tools.xjc
+3397  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2
+3397  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.model.core
+3397  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.tools.xjc.model
+3398  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.api
+3399  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.schemagen
+3400  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.schemagen.xmlschema
+3400  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.runtime.output
+3400  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.xml.bind.v2.schemagen.episode
+3401  INFO  [main] cfg.AnnotationConfiguration - Mapping package com.sun.tools.xjc.generator
+3423  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.AggiornamentoConfigOri
+3424  INFO  [main] annotations.QueryBinder - Binding Named query: AggiornamentoConfigOri.findAll => SELECT a FROM AggiornamentoConfigOri a
+3425  INFO  [main] annotations.QueryBinder - Binding Named query: AggiornamentoConfigOri.findByParametro => SELECT a FROM AggiornamentoConfigOri a WHERE a.parametro = :parametro
+3441  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.AggiornamentoConfigOri on table aggiornamento_config_ori
+3467  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.AllarmeOri
+3467  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findAll => SELECT a FROM AllarmeOri a
+3468  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByIdAllarme => SELECT a FROM AllarmeOri a WHERE a.idAllarme = :idAllarme
+3468  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByNome => SELECT a FROM AllarmeOri a WHERE a.nome = :nome
+3468  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByDescrizione => SELECT a FROM AllarmeOri a WHERE a.descrizione = :descrizione
+3468  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByTabellaRiferimento => SELECT a FROM AllarmeOri a WHERE a.tabellaRiferimento = :tabellaRiferimento
+3468  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByAbilitato => SELECT a FROM AllarmeOri a WHERE a.abilitato = :abilitato
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByDtAbilitato => SELECT a FROM AllarmeOri a WHERE a.dtAbilitato = :dtAbilitato
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByInfo1 => SELECT a FROM AllarmeOri a WHERE a.info1 = :info1
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByInfo2 => SELECT a FROM AllarmeOri a WHERE a.info2 = :info2
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByInfo3 => SELECT a FROM AllarmeOri a WHERE a.info3 = :info3
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByInfo4 => SELECT a FROM AllarmeOri a WHERE a.info4 = :info4
+3469  INFO  [main] annotations.QueryBinder - Binding Named query: AllarmeOri.findByInfo5 => SELECT a FROM AllarmeOri a WHERE a.info5 = :info5
+3470  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.AllarmeOri on table allarme_ori
+3473  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.AggiornamentoOri
+3473  INFO  [main] annotations.QueryBinder - Binding Named query: AggiornamentoOri.findAll => SELECT a FROM AggiornamentoOri a
+3473  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.AggiornamentoOri on table aggiornamento_ori
+3479  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.CategoriaOri
+3479  INFO  [main] annotations.QueryBinder - Binding Named query: CategoriaOri.findAll => SELECT c FROM CategoriaOri c
+3480  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.CategoriaOri on table categoria_ori
+3503  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ChimicaOri
+3503  INFO  [main] annotations.QueryBinder - Binding Named query: ChimicaOri.findAll => SELECT c FROM ChimicaOri c
+3503  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ChimicaOri on table chimica_ori
+3505  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.CicloOri
+3505  INFO  [main] annotations.QueryBinder - Binding Named query: CicloOri.findDatiNuovi => SELECT c FROM CicloOri c WHERE c.dtAbilitato > :dtAbilitato
+3506  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.CicloOri on table ciclo_ori
+3511  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.CicloProcessoOri
+3511  INFO  [main] annotations.QueryBinder - Binding Named query: CicloProcessoOri.findDatiNuovi => SELECT c FROM CicloProcessoOri c WHERE c.dtAbilitato > :dtAbilitato
+3512  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.CicloProcessoOri on table ciclo_processo_ori
+3515  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ClienteOri
+3515  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ClienteOri on table cliente_ori
+3516  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ColoreBaseOri
+3516  INFO  [main] annotations.QueryBinder - Binding Named query: ColoreBaseOri.findAll => SELECT c FROM ColoreBaseOri c
+3516  INFO  [main] annotations.QueryBinder - Binding Named query: ColoreBaseOri.findAllAbilitato => SELECT c FROM ColoreBaseOri c WHERE c.abilitato=1
+3516  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ColoreBaseOri on table colore_base_ori
+3519  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ColoreOri
+3519  INFO  [main] annotations.QueryBinder - Binding Named query: ColoreOri.findAll => SELECT c FROM ColoreOri c
+3519  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ColoreOri on table colore_ori
+3522  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ComponenteOri
+3523  INFO  [main] annotations.QueryBinder - Binding Named query: ComponenteOri.findAll => SELECT c FROM ComponenteOri c
+3523  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ComponenteOri on table componente_ori
+3526  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ComponentePesaturaOri
+3526  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findAll => SELECT c FROM ComponentePesaturaOri c
+3526  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findById => SELECT c FROM ComponentePesaturaOri c WHERE c.id = :id
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByIdProdotto => SELECT c FROM ComponentePesaturaOri c WHERE c.idProdotto = :idProdotto
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByIdComp => SELECT c FROM ComponentePesaturaOri c WHERE c.idComp = :idComp
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByMetodoPesa => SELECT c FROM ComponentePesaturaOri c WHERE c.metodoPesa = :metodoPesa
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByStepDosaggio => SELECT c FROM ComponentePesaturaOri c WHERE c.stepDosaggio = :stepDosaggio
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByOrdineDosaggio => SELECT c FROM ComponentePesaturaOri c WHERE c.ordineDosaggio = :ordineDosaggio
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByQuantita => SELECT c FROM ComponentePesaturaOri c WHERE c.quantita = :quantita
+3527  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByTollEccesso => SELECT c FROM ComponentePesaturaOri c WHERE c.tollEccesso = :tollEccesso
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByTollDifetto => SELECT c FROM ComponentePesaturaOri c WHERE c.tollDifetto = :tollDifetto
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByFluidificazione => SELECT c FROM ComponentePesaturaOri c WHERE c.fluidificazione = :fluidificazione
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByValoreResiduoFluidificazione => SELECT c FROM ComponentePesaturaOri c WHERE c.valoreResiduoFluidificazione = :valoreResiduoFluidificazione
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByAbilitato => SELECT c FROM ComponentePesaturaOri c WHERE c.abilitato = :abilitato
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByDtAbilitato => SELECT c FROM ComponentePesaturaOri c WHERE c.dtAbilitato = :dtAbilitato
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo1 => SELECT c FROM ComponentePesaturaOri c WHERE c.info1 = :info1
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo2 => SELECT c FROM ComponentePesaturaOri c WHERE c.info2 = :info2
+3528  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo3 => SELECT c FROM ComponentePesaturaOri c WHERE c.info3 = :info3
+3529  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo4 => SELECT c FROM ComponentePesaturaOri c WHERE c.info4 = :info4
+3529  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo5 => SELECT c FROM ComponentePesaturaOri c WHERE c.info5 = :info5
+3529  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo6 => SELECT c FROM ComponentePesaturaOri c WHERE c.info6 = :info6
+3529  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo7 => SELECT c FROM ComponentePesaturaOri c WHERE c.info7 = :info7
+3530  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo8 => SELECT c FROM ComponentePesaturaOri c WHERE c.info8 = :info8
+3530  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo9 => SELECT c FROM ComponentePesaturaOri c WHERE c.info9 = :info9
+3530  INFO  [main] annotations.QueryBinder - Binding Named query: ComponentePesaturaOri.findByInfo10 => SELECT c FROM ComponentePesaturaOri c WHERE c.info10 = :info10
+3530  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ComponentePesaturaOri on table componente_pesatura_ori
+3537  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ComponenteProdottoOri
+3537  INFO  [main] annotations.QueryBinder - Binding Named query: ComponenteProdottoOri.findAll => SELECT c FROM ComponenteProdottoOri c
+3538  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ComponenteProdottoOri on table componente_prodotto_ori
+3544  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.DizionarioOri
+3544  INFO  [main] annotations.QueryBinder - Binding Named query: DizionarioOri.findAll => SELECT d FROM DizionarioOri d
+3544  INFO  [main] annotations.QueryBinder - Binding Named query: DizionarioOri.findAllAbilitato => SELECT d FROM DizionarioOri d WHERE d.idLingua = :idLingua AND d.abilitato=1 ORDER BY d.idVocabolo
+3544  INFO  [main] annotations.QueryBinder - Binding Named query: DizionarioOri.findLingue => SELECT DISTINCT(d.nomeLingua) FROM DizionarioOri d ORDER BY d.idLingua
+3545  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.DizionarioOri on table dizionario_ori
+3547  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.FiguraOri
+3547  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.FiguraOri on table figura_ori
+3549  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.FiguraTipoOri
+3549  INFO  [main] annotations.QueryBinder - Binding Named query: FiguraTipoOri.findAll => SELECT f FROM FiguraTipoOri f
+3549  INFO  [main] annotations.QueryBinder - Binding Named query: FiguraTipoOri.findByIdFiguraTipo => SELECT f FROM FiguraTipoOri f WHERE f.idFiguraTipo = :idFiguraTipo
+3549  INFO  [main] annotations.QueryBinder - Binding Named query: FiguraTipoOri.findByFigura => SELECT f FROM FiguraTipoOri f WHERE f.figura = :figura
+3549  INFO  [main] annotations.QueryBinder - Binding Named query: FiguraTipoOri.findByAbilitato => SELECT f FROM FiguraTipoOri f WHERE f.abilitato = :abilitato
+3550  INFO  [main] annotations.QueryBinder - Binding Named query: FiguraTipoOri.findByDtAbilitato => SELECT f FROM FiguraTipoOri f WHERE f.dtAbilitato = :dtAbilitato
+3550  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.FiguraTipoOri on table figura_tipo_ori
+3551  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.MacchinaOri
+3552  INFO  [main] annotations.QueryBinder - Binding Named query: MacchinaOri.findAll => SELECT m FROM MacchinaOri m
+3552  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.MacchinaOri on table macchina_ori
+3554  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.MazzettaColorataOri
+3554  INFO  [main] annotations.QueryBinder - Binding Named query: MazzettaColorataOri.findAll => SELECT m FROM MazzettaColorataOri m
+3554  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.MazzettaColorataOri on table mazzetta_colorata_ori
+3556  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.MazzettaColSingMacOri
+3556  INFO  [main] annotations.QueryBinder - Binding Named query: MazzettaColSingMacOri.findAll => SELECT m FROM MazzettaColSingMacOri m
+3556  INFO  [main] annotations.QueryBinder - Binding Named query: MazzettaColSingMacOri.findDatiNuovi => SELECT m FROM MazzettaColSingMacOri m WHERE m.dtAbilitato > :dtAbilitato
+3556  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.MazzettaColSingMacOri on table mazzetta_col_sing_mac_ori
+3558  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.MazzettaOri
+3559  INFO  [main] annotations.QueryBinder - Binding Named query: MazzettaOri.findAll => SELECT m FROM MazzettaOri m
+3559  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.MazzettaOri on table mazzetta_ori
+3563  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.MovimentoSingMacOri
+3563  INFO  [main] annotations.QueryBinder - Binding Named query: MovimentoSingMacOri.findDatiNuovi => SELECT m FROM MovimentoSingMacOri m WHERE m.dtMov >:dtMov AND origineMov=:origineMov
+3564  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.MovimentoSingMacOri on table movimento_sing_mac_ori
+3567  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.NumSacchettoOri
+3568  INFO  [main] annotations.QueryBinder - Binding Named query: NumSacchettoOri.findAll => SELECT n FROM NumSacchettoOri n
+3568  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.NumSacchettoOri on table num_sacchetto_ori
+3570  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.OrdineSingMacOri
+3570  INFO  [main] annotations.QueryBinder - Binding Named query: OrdineSingMacOri.findDatiNuovi => SELECT v FROM OrdineSingMacOri v WHERE v.dtProduzione > :dtProduzione
+3570  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.OrdineSingMacOri on table ordine_sing_mac_ori
+3573  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ParametroCompProdOri
+3574  INFO  [main] annotations.QueryBinder - Binding Named query: ParametroCompProdOri.findAll => SELECT p FROM ParametroCompProdOri p
+3574  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ParametroCompProdOri on table parametro_comp_prod_ori
+3575  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ParametroGlobMacOri
+3575  INFO  [main] annotations.QueryBinder - Binding Named query: ParametroGlobMacOri.findAll => SELECT p FROM ParametroGlobMacOri p
+3575  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ParametroGlobMacOri on table parametro_glob_mac_ori
+3576  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.PresaOri
+3576  INFO  [main] annotations.QueryBinder - Binding Named query: PresaOri.findAll => SELECT p FROM PresaOri p
+3577  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.PresaOri on table presa_ori
+3577  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ProcessoOri
+3578  INFO  [main] annotations.QueryBinder - Binding Named query: ProcessoOri.findAll => SELECT p FROM ProcessoOri p
+3578  INFO  [main] annotations.QueryBinder - Binding Named query: ProcessoOri.findDatiNuovi => SELECT p FROM ProcessoOri p WHERE p.dtProduzione > :dtProduzione
+3578  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ProcessoOri on table processo_ori
+3581  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ProdottoOri
+3581  INFO  [main] annotations.QueryBinder - Binding Named query: ProdottoOri.findAll => SELECT p FROM ProdottoOri p
+3581  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ProdottoOri on table prodotto_ori
+3587  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreAllarmeOri
+3587  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreAllarmeOri.findDatiNuovi => SELECT v FROM ValoreAllarmeOri v WHERE v.dtAbilitato > :dtAbilitato
+3587  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreAllarmeOri on table valore_allarme_ori
+3589  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParCompOri
+3589  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParCompOri.findAll => SELECT v FROM ValoreParCompOri v
+3590  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParCompOri.findDatiNuovi => SELECT v FROM ValoreParCompOri v WHERE v.dtModificaMac > :dtModificaMac
+3590  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParCompOri on table valore_par_comp_ori
+3591  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParOrdineOri
+3591  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findAll => SELECT v FROM ValoreParOrdineOri v
+3593  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findById => SELECT v FROM ValoreParOrdineOri v WHERE v.id = :id
+3594  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findByIdParOrdine => SELECT v FROM ValoreParOrdineOri v WHERE v.idParOrdine = :idParOrdine
+3594  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findByIdOrdineSm => SELECT v FROM ValoreParOrdineOri v WHERE v.idOrdineSm = :idOrdineSm
+3594  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findByValore => SELECT v FROM ValoreParOrdineOri v WHERE v.valore = :valore
+3594  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findByAbilitato => SELECT v FROM ValoreParOrdineOri v WHERE v.abilitato = :abilitato
+3594  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParOrdineOri.findByDtAbilitato => SELECT v FROM ValoreParOrdineOri v WHERE v.dtAbilitato = :dtAbilitato
+3595  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParOrdineOri on table valore_par_ordine_ori
+3596  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParProdOri
+3597  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParProdOri.findAll => SELECT v FROM ValoreParProdOri v
+3598  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParProdOri on table valore_par_prod_ori
+3601  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParProdMacOri
+3602  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParProdMacOri.findAll => SELECT v FROM ValoreParProdMacOri v
+3603  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParProdMacOri on table valore_par_prod_mac_ori
+3605  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreProdottoOri
+3605  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreProdottoOri.findAll => SELECT v FROM ValoreProdottoOri v
+3605  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreProdottoOri on table valore_prodotto_ori
+3606  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParSacchettoOri
+3607  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParSacchettoOri.findAll => SELECT v FROM ValoreParSacchettoOri v
+3607  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParSacchettoOri on table valore_par_sacchetto_ori
+3609  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreParSingMacOri
+3609  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParSingMacOri.findAll => SELECT v FROM ValoreParSingMacOri v
+3609  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParSingMacOri.findDatiNuovi => SELECT v FROM ValoreParSingMacOri v WHERE v.dtModificaMac > :dtModificaMac 
+3609  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreParSingMacOri.findByIdParSm => SELECT v FROM ValoreParSingMacOri v WHERE v.idParSm = :idParSm
+3609  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreParSingMacOri on table valore_par_sing_mac_ori
+3611  INFO  [main] cfg.AnnotationBinder - Binding entity from annotated class: eu.personalfactory.cloudfab.macchina.entity.ValoreRipristinoOri
+3611  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreRipristinoOri.findAll => SELECT v FROM ValoreRipristinoOri v
+3611  INFO  [main] annotations.QueryBinder - Binding Named query: ValoreRipristinoOri.findDatiNuovi => SELECT v FROM ValoreRipristinoOri v WHERE v.dtRegistrato > :dtRegistrato
+3611  INFO  [main] annotations.EntityBinder - Bind entity eu.personalfactory.cloudfab.macchina.entity.ValoreRipristinoOri on table valore_ripristino_ori
+3653  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.CategoriaOri.numSacchettoOriCollection -> num_sacchetto_ori
+3654  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.CategoriaOri.prodottoOriCollection -> prodotto_ori
+3654  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.CategoriaOri.valoreParProdOriCollection -> valore_par_prod_ori
+3655  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.CategoriaOri.valoreParSacchettoOriCollection -> valore_par_sacchetto_ori
+3655  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ColoreBaseOri.mazzettaColSingMacOriCollection -> mazzetta_col_sing_mac_ori
+3655  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ColoreBaseOri.mazzettaColorataOriCollection -> mazzetta_colorata_ori
+3655  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ColoreOri.mazzettaColorataOriCollection -> mazzetta_colorata_ori
+3655  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.FiguraTipoOri.figuraOriCollection -> figura_ori
+3656  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.MazzettaOri.mazzettaColSingMacOriCollection -> mazzetta_col_sing_mac_ori
+3656  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.MazzettaOri.mazzettaColorataOriCollection -> mazzetta_colorata_ori
+3656  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.MazzettaOri.prodottoOriCollection -> prodotto_ori
+3656  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.NumSacchettoOri.valoreParSacchettoOriCollection -> valore_par_sacchetto_ori
+3656  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ProdottoOri.componenteProdottoOriCollection -> componente_prodotto_ori
+3657  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ProdottoOri.valoreParProdMacOriCollection -> valore_par_prod_mac_ori
+3657  INFO  [main] annotations.CollectionBinder - Mapping collection: eu.personalfactory.cloudfab.macchina.entity.ProdottoOri.valoreProdottoOriCollection -> valore_prodotto_ori
+3657  INFO  [main] cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+3705  INFO  [main] connection.DriverManagerConnectionProvider - Using Hibernate built-in connection pool (not for production use!)
+3705  INFO  [main] connection.DriverManagerConnectionProvider - Hibernate connection pool size: 20
+3707  INFO  [main] connection.DriverManagerConnectionProvider - autocommit mode: true
+3712  INFO  [main] connection.DriverManagerConnectionProvider - using driver: com.mysql.jdbc.Driver at URL: jdbc:mysql://localhost:3306/origamidb
+3712  INFO  [main] connection.DriverManagerConnectionProvider - connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+4041  INFO  [main] cfg.SettingsFactory - RDBMS: MySQL, version: 5.7.31
+4041  INFO  [main] cfg.SettingsFactory - JDBC driver: MySQL-AB JDBC Driver, version: mysql-connector-java-5.1.23 ( Revision: ${bzr.revision-id} )
+4049  INFO  [main] dialect.Dialect - Using dialect: org.hibernate.dialect.MySQLDialect
+4052  INFO  [main] transaction.TransactionFactoryFactory - Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+4052  INFO  [main] transaction.TransactionManagerLookupFactory - No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+4053  INFO  [main] cfg.SettingsFactory - Automatic flush during beforeCompletion(): disabled
+4053  INFO  [main] cfg.SettingsFactory - Automatic session close at end of transaction: disabled
+4053  INFO  [main] cfg.SettingsFactory - JDBC batch size: 15
+4053  INFO  [main] cfg.SettingsFactory - JDBC batch updates for versioned data: disabled
+4053  INFO  [main] cfg.SettingsFactory - Scrollable result sets: enabled
+4053  INFO  [main] cfg.SettingsFactory - JDBC3 getGeneratedKeys(): enabled
+4054  INFO  [main] cfg.SettingsFactory - Connection release mode: auto
+4054  INFO  [main] cfg.SettingsFactory - Maximum outer join fetch depth: 2
+4054  INFO  [main] cfg.SettingsFactory - Default batch fetch size: 1
+4054  INFO  [main] cfg.SettingsFactory - Generate SQL with comments: disabled
+4054  INFO  [main] cfg.SettingsFactory - Order SQL updates by primary key: disabled
+4055  INFO  [main] cfg.SettingsFactory - Order SQL inserts for batching: disabled
+4055  INFO  [main] cfg.SettingsFactory - Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+4056  INFO  [main] ast.ASTQueryTranslatorFactory - Using ASTQueryTranslatorFactory
+4056  INFO  [main] cfg.SettingsFactory - Query language substitutions: {}
+4056  INFO  [main] cfg.SettingsFactory - JPA-QL strict compliance: enabled
+4056  INFO  [main] cfg.SettingsFactory - Second-level cache: enabled
+4056  INFO  [main] cfg.SettingsFactory - Query cache: disabled
+4056  INFO  [main] cfg.SettingsFactory - Cache provider: org.hibernate.cache.NoCacheProvider
+4056  INFO  [main] cfg.SettingsFactory - Optimize cache for minimal puts: disabled
+4057  INFO  [main] cfg.SettingsFactory - Structured second-level cache entries: disabled
+4058  INFO  [main] cfg.SettingsFactory - Statistics: disabled
+4058  INFO  [main] cfg.SettingsFactory - Deleted entity synthetic identifier rollback: disabled
+4059  INFO  [main] cfg.SettingsFactory - Default entity-mode: pojo
+4059  INFO  [main] cfg.SettingsFactory - Named query checking : enabled
+4077  INFO  [main] impl.SessionFactoryImpl - building session factory
+4391  INFO  [main] impl.SessionFactoryObjectFactory - Not binding factory to JNDI, no JNDI name configured

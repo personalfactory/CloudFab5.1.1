@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "690.0" y = "20.0" l = "316.0" a = "146.0" img = "64.png" imgS = "64s.png" ></But0>
+    <But1  x = "355.0" y = "20.0" l = "316.0" a = "146.0" img = "65.png" imgS = "65s.png" ></But1> 
+    <But2  x = "20.0"  y = "20.0" l = "316.0" a = "146.0" img = "85.png" imgS = "85s.png" ></But2> 
+    <!-- Coordinate Label --> 
+    <labSimple0  x = "695.0" y = "100.0" l = "240.0" a = "44.0"  f="30" ></labSimple0> 
+    <labSimple1  x = "360.0" y = "100.0" l = "240.0" a = "44.0"  f="30" ></labSimple1>   
+    <labSimple2  x = "25.0"  y = "100.0" l = "240.0" a = "44.0"  f="30" ></labSimple2>
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>   
+    <!-- Image Sfondo -->
+    <sfondoImg img = "72.jpg" ></sfondoImg>  
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "250" green = "250" blue = "250" ></colore0> 
+    <!-- ELEMENT LABEL HELP -->   
+</params> 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>  
+  <!-- NASCONDI ELEMENTI PESA MANUALE --> 
+ <But0 x = "585.0" y = "87.0" l = "64.0" a = "434.0" img ="157.png" imgS = "157s.png" ></But0> 
+ <!-- ELEMENTI PESA MANUALE - PULSANTE TASTIERA --> 
+ <But1 x = "34.0" y = "433.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But1> 
+ <!-- ELEMENTI PESA MANUALE - PULSANTE AZZERA --> 
+ <But2 x = "213.0" y = "433.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But2> 
+ <!-- ELEMENTI PESA MANUALE - PULSANTE CONFERMA --> 
+ <But3 x = "393.0" y = "433.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But3>
+ <!-- Coordinate Button PANIC --> 
+ <But4 x = "2.0" y = "2.0" l = "70.0" a = "70.0" img ="86.png" imgS = "86s.png" ></But4> 
+ <!-- ELEMENTI PESA MANUALE - PULSANTE CONFERMA CODICE--> 
+ <But5 x = "393.0" y = "283.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But5>  
+ <!-- ELEMENTI PESA MANUALE CHIMICA SFUSA - PULSANTE CONFERMA --> 
+ <But6 x = "393.0" y = "433.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But6>
+ 
+ <!-- Coordinate Label Simple --> 
+ <!-- ELEMENTI PESA MANUALE - LABEL TASTIERA -->
+ <labSimple0  x = "56.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple0>
+ <!-- ELEMENTI PESA MANUALE - LABEL AZZERA -->
+ <labSimple1  x = "265.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple1>
+ <!-- ELEMENTI PESA MANUALE - LABEL CONFERMA -->
+ <labSimple2 x = "418.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple2> 
+ <!-- ELEMENTI PESA MANUALE - LABEL COMPONENTE DA PESARE -->
+ <labSimple3  x = "60.0" y = "233.0" l = "500.0" a = "28.0"  f="24"></labSimple3>
+ <!-- ELEMENTI PESA MANUALE - LABEL PESO TEORICO -->
+ <labSimple4  x = "265.0" y = "293.0" l = "200.0" a = "28.0"  f="24"></labSimple4>
+  <!-- ELEMENTI PESA MANUALE - LABEL PESO REALE -->
+ <labSimple5  x = "265.0" y = "366.0" l = "200.0" a = "28.0"  f="24"></labSimple5>
+  <!-- PANIC -->
+ <labSimple6  x = "12.0" y = "26.0" l = "90.0" a = "20.0"  f="18"></labSimple6>
+ <!-- ELEMENTI PESA MANUALE - LABEL VERIFICA -->
+ <labSimple7  x = "418.0" y = "304.0" l = "200.0" a = "28.0"  f="24"></labSimple7>
+ <!-- Coordinate Label Title -->  
+ <!-- ELEMENTI PESA MANUALE - PULSANTE TASTIERA --> 
+ <labTitle0  x = "80.0" y = "2.0"  l = "820" a = "48" f="44" ></labTitle0>
+ <!-- ELEMENTI PESA MANUALE - PESA MANUALE -->
+ <labTitle1  x = "34.0" y = "104.0"  l = "500" a = "52" f="48" ></labTitle1>
+ <!-- ELEMENTI PESA MANUALE - COMPONENTE DA PESARE -->
+ <labTitle2  x = "60.0" y = "188.0"  l = "500" a = "28" f="20" ></labTitle2>
+ <!-- ELEMENTI PESA MANUALE - CODICE COMPONENTE / DA PESARE -->
+ <labTitle3  x = "60.0" y = "292.0"  l = "500" a = "28" f="20" ></labTitle3>
+ <!-- ELEMENTI PESA MANUALE - PESO REALE -->
+ <labTitle4  x = "51.0" y = "366.0"  l = "500" a = "28" f="20" ></labTitle4>
+ <!-- ELEMENTI PESA MANUALE - UNITA DI MISURA DA PESARE -->
+ <labTitle5  x = "520.0" y = "292.0"  l = "500" a = "28" f="20" ></labTitle5>
+ <!-- ELEMENTI PESA MANUALE - UNITA DI MISURA PESO REALE -->
+ <labTitle6  x = "520.0" y = "366.0"  l = "500" a = "28" f="20" ></labTitle6>
+  <!-- NOME/CODICE PRODOTTO -->
+ <labTitle7  x = "80.0" y = "48.0"  l = "820" a = "18" f="20" ></labTitle7>
+ <!-- ELEMENTI PESA MANUALE - CODICE CHIMICA -->
+ <labTitle8  x = "60.0" y = "188.0"  l = "500" a = "28" f="20" ></labTitle8>
+ <!-- Image Sfondo --> 
+ <sfondoImg img = "17.jpg" ></sfondoImg>  
+ <!-- Coordinate Immagini Ausiliarie-->
+ <!-- Image Sfondo Pesa Manuale - Image A -->
+ <labImageAux0 x = "0.0"   y = "0.0"   img = "110.png" ></labImageAux0>
+ <!-- Image Sfondo Pesa Manuale - Image B -->
+ <labImageAux1 x = "0.0"   y = "0.0"   img = "111.png" ></labImageAux1>
+ <!-- Image Sfondo Pesa Manuale - Inserimento Codice -->
+ <labImageAux2 x = "0.0"   y = "0.0"   img = "130.png" ></labImageAux2>
+ <!-- Coordinate Label Titolo Progresso --> 
+ <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0> 
+ <!-- Coordinate JTextLabel CODICE PESA MANUALE --> 
+ <textField0 x = "55.0" y = "335.0" l = "620.0" a = "30.0"  f="28.0" ></textField0> 
+ <!-- Coordinate JTextLabel CODICE CHIMICA--> 
+ <textField1 x = "55.0" y = "228.0" l = "490.0" a = "30.0"  f="28.0" ></textField1> 
+ <!-- Coordinate Colore --> 
+ <!-- ELEMENTI LABEL SIMPLE -->
+ <colore0 red = "220" green = "220" blue = "220" ></colore0> 
+ <!-- ELEMENT LABEL TITLE --> 
+ <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+ <!-- ELEMENTI LABEL SIMPLE PULSANTI -->
+ <colore2 red = "20" green = "20" blue = "20" ></colore2>
+ <!-- ELEMENTI LABEL SIMPLE  -->
+ <colore3 red = "20" green = "20" blue = "20" ></colore3> 
+</params> 

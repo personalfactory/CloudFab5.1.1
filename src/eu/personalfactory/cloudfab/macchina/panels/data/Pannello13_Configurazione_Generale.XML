@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "15.0"  y = "100.0" l = "200.0" a = "124.0" img = "47.png" imgS = "47s.png" ></But0>
+    <But1  x = "215.0" y = "100.0" l = "200.0" a = "124.0" img = "47.png" imgS = "47s.png" ></But1>
+    <But2  x = "415.0" y = "100.0" l = "200.0" a = "124.0" img = "47.png" imgS = "47s.png" ></But2>
+    <But3  x = "615.0" y = "100.0" l = "200.0" a = "124.0" img = "47.png" imgS = "47s.png" ></But3>
+    <But4  x = "815.0" y = "100.0" l = "200.0" a = "124.0" img = "47.png" imgS = "47s.png" ></But4> 
+    <But5  x = "80.0"  y = "340.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But5>
+    <But6  x = "80.0"  y = "395.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But6>
+    <But7  x = "80.0"  y = "450.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But7>
+    <But8  x = "80.0"  y = "505.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But8>
+    <But9  x = "80.0"  y = "560.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But9> 
+    <But10 x = "80.0"  y = "615.0" l = "800.0"  a = "55.0"  img = ""       imgS = ""        ></But10>
+    <But11 x = "920.0" y = "314.0" l = "67.0"  a = "94.0"  img = "48.png" imgS = "48s.png" ></But11>
+    <But12 x = "920.0" y = "592.0" l = "67.0"  a = "94.0"  img = "49.png" imgS = "49s.png" ></But12>
+    <But13 x = "780.0" y = "625.0" l = "209.0" a = "90.0"  img = "46.png" imgS = "46s.png" ></But13>
+    <But14 x = "260.0" y = "310.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But14>
+    <But15 x = "420.0" y = "310.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But15>
+    <But16 x = "580.0" y = "310.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But16>
+    <But17 x = "740.0" y = "310.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But17>
+    <But18 x = "260.0" y = "450.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But18> 
+    <But19 x = "420.0" y = "450.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But19>
+    <But20 x = "580.0" y = "450.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But20>
+    <But21 x = "740.0" y = "450.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But21>
+    <But22 x = "260.0" y = "590.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But22>
+    <But23 x = "420.0" y = "590.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But23>
+    <But24 x = "580.0" y = "590.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But24>
+    <But25 x = "740.0" y = "590.0" l = "120.0" a = "120.0"  img = "" imgS = "" ></But25> 
+    <But26 x = "880.0" y = "290.0" l = "67.0"  a = "94.0"   img = "48.png" imgS = "48s.png" ></But26>
+    <But27 x = "880.0" y = "630.0" l = "67.0"  a = "94.0"   img = "49.png" imgS = "49s.png" ></But27> 
+    <But28  x = "825.0" y = "640.0" l = "200.0" a = "124.0" img = "80.png" imgS = "80s.png" ></But28> 
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "35.0"  y = "119.0" l = "160"  a = "80"  f="16" ></labSimple0>		
+    <labSimple1  x = "235.0" y = "119.0" l = "160"  a = "80"  f="16" ></labSimple1>
+    <labSimple2  x = "435.0" y = "119.0" l = "160"  a = "80"  f="16" ></labSimple2>		
+    <labSimple3  x = "635.0" y = "119.0" l = "160"  a = "80"  f="16" ></labSimple3>
+    <labSimple4  x = "835.0" y = "119.0" l = "160"  a = "80"  f="16" ></labSimple4>
+    <labSimple5  x = "100.0" y = "330.0" l = "1000" a = "520" f="20" ></labSimple5>
+    <labSimple6  x = "100.0" y = "325.0" l = "780"  a = "58"  f="48" ></labSimple6>
+    <labSimple7  x = "100.0" y = "383.0" l = "780"  a = "58"  f="48" ></labSimple7>		
+    <labSimple8  x = "100.0" y = "441.0" l = "780"  a = "58"  f="48" ></labSimple8>
+    <labSimple9  x = "100.0" y = "499.0" l = "780"  a = "58"  f="48" ></labSimple9>
+    <labSimple10 x = "100.0" y = "557.0" l = "780"  a = "58"  f="48" ></labSimple10>    
+    <labSimple11 x = "100.0" y = "615.0" l = "780"  a = "58"  f="48" ></labSimple11>  
+    <labSimple12 x = "800.0" y = "660.0" l = "140"  a = "26"  f="26" ></labSimple12>  
+    <labSimple13 x = "100.0" y = "340.0" l = "600"  a = "380" f="22" ></labSimple13> 
+    <labSimple14 x = "260.0" y = "310.0" l = "120.0" a = "120.0" f="80" ></labSimple14>
+    <labSimple15 x = "420.0" y = "310.0" l = "120.0" a = "120.0" f="80" ></labSimple15>
+    <labSimple16 x = "580.0" y = "310.0" l = "120.0" a = "120.0" f="80" ></labSimple16>
+    <labSimple17 x = "740.0" y = "310.0" l = "120.0" a = "120.0" f="80" ></labSimple17>
+    <labSimple18 x = "260.0" y = "450.0" l = "120.0" a = "120.0" f="80" ></labSimple18> 
+    <labSimple19 x = "420.0" y = "450.0" l = "120.0" a = "120.0" f="80" ></labSimple19>
+    <labSimple20 x = "580.0" y = "450.0" l = "120.0" a = "120.0" f="80" ></labSimple20>
+    <labSimple21 x = "740.0" y = "450.0" l = "120.0" a = "120.0" f="80" ></labSimple21>
+    <labSimple22 x = "260.0" y = "590.0" l = "120.0" a = "120.0" f="80" ></labSimple22>
+    <labSimple23 x = "420.0" y = "590.0" l = "120.0" a = "120.0" f="80" ></labSimple23>
+    <labSimple24 x = "580.0" y = "590.0" l = "120.0" a = "120.0" f="80" ></labSimple24>
+    <labSimple25 x = "740.0" y = "590.0" l = "120.0" a = "120.0" f="80" ></labSimple25>
+    <labSimple26  x = "860.0" y = "669.0" l = "100"  a = "80"  f="16" ></labSimple26>                                                                                                                                                                	
+    <!-- Coordinate Label Titoli -->
+    <labTitle0  x = "10.0"  y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <labTitle1  x = "100.0" y = "280.0" l = "820" a = "36" f="36" ></labTitle1>  			
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "300.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "51.jpg" ></sfondoImg>  
+    <!-- Coordinate Immagini Ausiliarie-->   
+    <labImageAux0  x = "0.0"   y = "0.0"   img = "52.png" ></labImageAux0>   
+    <labImageAux1  x = "0.0"   y = "0.0"   img = "54.png" ></labImageAux1>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "20" green ="20" blue = "20"></colore0>
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>
+    <!-- OPACITY -->
+    <opacity value = "0.85" ></opacity>  
+</params> 

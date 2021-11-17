@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "328.0"  y = "173.0" l = "370.0" a = "115.0" img = "08.png" imgS = "08s.png" ></But0>
+    <But1  x = "328.0"  y = "353.0" l = "370.0" a = "115.0" img = "09.png" imgS = "09s.png" ></But1>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "505.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "555.0" l = "860" a = "160"  f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "345.0" y = "240.0" l = "400" a = "30"  f="28" ></labSimple0>		
+    <labSimple1  x = "345.0" y = "420.0" l = "400" a = "30"  f="28" ></labSimple1>	
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>				
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "01.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "20" green = "20" blue = "20" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "20" green = "20" blue = "20" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+</params> 

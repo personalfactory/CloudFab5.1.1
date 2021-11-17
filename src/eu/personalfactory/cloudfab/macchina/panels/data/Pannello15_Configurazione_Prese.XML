@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Label Lista Selezionabile --> 
+    <labPlus0  x = "141.0" y = "288.0" l = "850" a = "27" f="27" ></labPlus0> 
+    <labPlus1  x = "141.0" y = "316.0" l = "850" a = "27" f="27" ></labPlus1>  
+    <labPlus2  x = "141.0" y = "344.0" l = "850" a = "27" f="27" ></labPlus2>	 
+    <labPlus3  x = "141.0" y = "372.0" l = "850" a = "27" f="27" ></labPlus3>	 	 
+    <labPlus4  x = "141.0" y = "400.0" l = "850" a = "27" f="27" ></labPlus4>	 	 
+    <labPlus5  x = "141.0" y = "428.0" l = "850" a = "27" f="27" ></labPlus5>	 			 
+    <labPlus6  x = "141.0" y = "456.0" l = "850" a = "27" f="27" ></labPlus6>	 			 
+    <labPlus7  x = "141.0" y = "484.0" l = "850" a = "27" f="27" ></labPlus7>	
+    <!-- Coordinate Label Lista Non Selezionabile --> 
+    <labSimple0  x = "128.0" y = "143.0"  l = "850" a = "32"  f="26" ></labSimple0> 
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "555.0" l = "900" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "585.0" l = "900" a = "160"  f="20" ></labHelp1> 
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0"  y = "18.0"  l = "820" a = "48"  f="48" ></labTitle0>	
+    <labTitle1  x = "128.0" y = "210.0" l = "820" a = "30" f="30" ></labTitle1>  
+    <labTitle2  x = "128.0" y = "96.0"  l = "820" a = "30"  f="30" ></labTitle2>     							
+    <!-- Coordinate JTextLabel --> 
+    <textField x = "130.0" y = "240.0" l = "680.0" a = "48.0"  f="48.0" ></textField>  
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>
+    <!-- Coordinate Button Info --> 
+    <butInfo x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="tINFO.png" imgS = "tINFOs.png" ></butInfo>
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "61.jpg" ></sfondoImg>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENTI LISTA SELEZIONABILI --> 
+    <colore0 red = "0" green = "0" blue = "0" ></colore0>
+    <!-- ELEMENTI LISTA NON SELEZIONABILI -->
+    <colore1 red = "210" green = "210" blue = "210" ></colore1>
+    <!-- ELEMENTI LISTA SELEZIONATI -->
+    <colore2 red = "140" green = "20" blue = "20" ></colore2> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore3 red = "20" green = "20" blue = "20" ></colore3> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore4 red = "20" green = "20" blue = "20" ></colore4>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore5 red = "240" green = "240" blue = "240" ></colore5> 
+</params> 
+ 

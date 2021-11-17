@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "625.0" y = "600.0"  l = "328.0" a = "134.0" img = "90.png" imgS = "90s.png" ></But0>
+    <But1  x = "85.0"  y = "600.0"  l = "328.0" a = "134.0" img = "89.png" imgS = "89s.png" ></But1>
+    <But2  x = "905.0"  y = "8.0"  l = "80.0"  a = "60.0"  img = "213.png" imgS = "213s.png" ></But2>
+    <!-- Coordinate Label Lista Selezionabile --> 
+    <labPlus0  x = "100.0" y = "262.0" l = "600.0" a = "15.0" f="14" ></labPlus0> 
+    <labPlus1  x = "100.0" y = "277.0" l = "600.0" a = "15.0" f="14" ></labPlus1> 
+    <labPlus2  x = "100.0" y = "292.0" l = "600.0" a = "15.0" f="14" ></labPlus2> 	
+    <labPlus3  x = "100.0" y = "307.0" l = "600.0" a = "15.0" f="14" ></labPlus3> 
+    <labPlus4  x = "100.0" y = "322.0" l = "600.0" a = "15.0" f="14" ></labPlus4> 
+    <labPlus5  x = "100.0" y = "337.0" l = "600.0" a = "15.0" f="14" ></labPlus5> 
+    <labPlus6  x = "100.0" y = "352.0" l = "600.0" a = "15.0" f="14" ></labPlus6>
+    <labPlus7  x = "100.0" y = "367.0" l = "600.0" a = "15.0" f="14" ></labPlus7> 
+    <labPlus8  x = "100.0" y = "382.0" l = "600.0" a = "15.0" f="14" ></labPlus8> 
+    <labPlus9  x = "100.0" y = "397.0" l = "600.0" a = "15.0" f="14" ></labPlus9> 
+    <labPlus10 x = "100.0" y = "412.0" l = "600.0" a = "15.0" f="14" ></labPlus10> 
+    <labPlus11 x = "100.0" y = "427.0" l = "600.0" a = "15.0" f="14" ></labPlus11> 
+    <labPlus12 x = "100.0" y = "442.0" l = "600.0" a = "15.0" f="14" ></labPlus12>
+    <labPlus13 x = "100.0" y = "457.0" l = "600.0" a = "15.0" f="14" ></labPlus13>
+    <labPlus14 x = "100.0" y = "472.0" l = "600.0" a = "15.0" f="14" ></labPlus14>
+    <labPlus15 x = "100.0" y = "487.0" l = "600.0" a = "15.0" f="14" ></labPlus15>
+    <labPlus16 x = "100.0" y = "502.0" l = "600.0" a = "15.0" f="14" ></labPlus16>
+    <labPlus17 x = "100.0" y = "517.0" l = "600.0" a = "15.0" f="14" ></labPlus17>
+    <labPlus18 x = "100.0" y = "532.0" l = "600.0" a = "15.0" f="14" ></labPlus18>
+    <!-- Coordinate Label Pulsanti --> 
+    <!-- PULSANTE CONFERMA -->
+    <labSimple0  x = "648.0" y = "685.0"  l = "300.0" a = "38.0"  f="30" ></labSimple0>
+    <!-- PULSANTE BACKP -->
+    <labSimple1  x = "118.0" y = "685.0"  l = "300.0" a = "38.0"  f="30" ></labSimple1>
+    <!-- Coordinate Immagine di Sfondo --> 
+    <sfondoImg img = "47.jpg" ></sfondoImg>
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0> 				
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "555.0" l = "400.0" a = "24" f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "585.0" l = "950.0" a = "160.0" f="20" ></labHelp1>  
+    <!-- Progress Bar --> 
+    <progBar  x = "88.0" y = "154.0" l = "900.0" a = "65.0" ></progBar>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "210" green = "210" blue = "210"></colore0>
+    <!-- ELEMENT LABEL HELP -->
+    <colore1 red = "210" green = "210" blue = "210" ></colore1>
+    <!-- PROGRESS BAR -->
+    <colore2 red = "150" green = "30" blue = "30" ></colore2>  
+    <!-- ELEMENTI LISTA SELEZIONABILI --> 
+    <colore3 red = "0" green = "0" blue = "0" ></colore3>
+    <!-- ELEMENTI LISTA NON SELEZIONABILI -->
+    <colore4 red = "210" green = "210" blue = "210" ></colore4>
+    <!-- ELEMENTI LISTA SELEZIONATI -->
+    <colore5 red = "140" green = "20" blue = "20" ></colore5>     
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore6 red = "240" green = "240" blue = "240" ></colore6> 
+</params> 

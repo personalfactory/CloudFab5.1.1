@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+  <persistence-unit name="FabCloudPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.hibernate.ejb.HibernatePersistence</provider>
+    <class>eu.personalfactory.cloudfab.macchina.entity.AggiornamentoConfigOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.AggiornamentoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.AllarmeOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.CategoriaOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ChimicaOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.CicloOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.CicloProcessoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ClienteOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ColoreBaseOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ColoreOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ComponenteOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ComponentePesaturaOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ComponenteProdottoOri</class>   
+    <class>eu.personalfactory.cloudfab.macchina.entity.DizionarioOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.FiguraOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.FiguraTipoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.MacchinaOri</class>     
+    <class>eu.personalfactory.cloudfab.macchina.entity.MazzettaColorataOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.MazzettaColSingMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.MazzettaOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.MovimentoSingMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.NumSacchettoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.OrdineSingMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ParametroCompProdOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ParametroGlobMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.PresaOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ProcessoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ProdottoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreAllarmeOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParCompOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParOrdineOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParProdMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParProdOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParSacchettoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreParSingMacOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreProdottoOri</class>
+    <class>eu.personalfactory.cloudfab.macchina.entity.ValoreRipristinoOri</class>
+    <properties>
+      <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver"/> 
+    </properties>
+  </persistence-unit>
+</persistence>

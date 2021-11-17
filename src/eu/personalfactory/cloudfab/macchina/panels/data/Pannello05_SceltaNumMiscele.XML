@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+     <!-- Coordinate Pulsanti --> 
+    <But0  x = "460.0" y = "475.0" l = "88.0" a = "67.0" img = "126.png" imgS = "126s.png" ></But0>
+    <But1  x = "540.0" y = "475.0" l = "88.0" a = "67.0" img = "127.png" imgS = "127s.png" ></But1>
+    <!-- Coordinate Label Lista Selezionabile --> 
+    <labPlus0  x = "100.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus0> 
+    <labPlus1  x = "240.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus1> 
+    <labPlus2  x = "380.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus2> 	
+    <labPlus3  x = "520.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus3> 
+    <labPlus4  x = "660.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus4> 
+    <labPlus5  x = "800.0" y = "100.0" l = "140.0" a = "190.0" f="100" ></labPlus5>    
+    <labPlus6  x = "100.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus6> 
+    <labPlus7  x = "240.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus7>   
+    <labPlus8  x = "380.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus8> 
+    <labPlus9  x = "520.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus9> 
+    <labPlus10 x = "660.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus10> 
+    <labPlus11 x = "800.0" y = "295.0" l = "140.0" a = "190.0" f="100" ></labPlus11> 
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "555.0" l = "400.0" a = "24" f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "585.0" l = "950.0" a = "160.0" f="20" ></labHelp1> 
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0"  y = "18.0"  l = "860" a = "48" f="48" ></labTitle0>
+    <labTitle1  x = "165.0" y = "130.0" l = "400" a = "30" f="30" ></labTitle1> 
+    <labTitle2  x = "165.0" y = "340.0" l = "820" a = "30" f="30" ></labTitle2> 
+    <labTitle3  x = "165.0" y = "200.0" l = "820" a = "40" f="40" ></labTitle3> 
+    <labTitle4  x = "165.0" y = "360.0" l = "820" a = "40" f="40" ></labTitle4> 
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>
+    <!-- Coordinate JTextLabel --> 
+    <textField x = "320.0" y = "130.0" l = "680.0" a = "48.0"  f="48.0" ></textField> 
+    <!-- Coordinate Area di Scambio --> 
+    <AreaScambio x = "110.0" y = "165.0" l = "165.0" a = "350.0"  ></AreaScambio>
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>
+    <!-- Coordinate Button Info --> 
+    <butInfo x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="tINFO.png" imgS = "tINFOs.png" ></butInfo>
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "06.jpg" ></sfondoImg>
+    <!-- Coordinate Colori --> 
+    <!-- ELEMENTI LISTA SELEZIONABILI --> 
+    <colore0 red = "210" green = "210" blue = "210" ></colore0>
+    <!-- ELEMENTI LISTA NON SELEZIONABILI -->
+    <colore1 red = "0" green = "0" blue = "0" ></colore1>
+    <!-- ELEMENTI LISTA NON SELEZIONATI -->
+    <colore2 red = "140" green = "20" blue = "20" ></colore2>  
+    <!-- ELEMENT LABEL HELP --> 
+    <colore3 red = "20" green = "20" blue = "20" ></colore3>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore4 red = "240" green = "240" blue = "240" ></colore4> 
+</params> 

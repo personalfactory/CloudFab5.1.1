@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+     <!-- Coordinate Label Lista Selezionabile - MATERIE PRIME --> 
+    <labPlus0  x = "121.0" y = "225.0" l = "800" a = "30" f="24" ></labPlus0> 
+    <labPlus1  x = "121.0" y = "260.0" l = "800" a = "30" f="24" ></labPlus1>  
+    <labPlus2  x = "121.0" y = "295.0" l = "800" a = "30" f="24" ></labPlus2>	 
+    <labPlus3  x = "121.0" y = "330.0" l = "800" a = "30" f="24" ></labPlus3>	 	 
+    <labPlus4  x = "121.0" y = "365.0" l = "800" a = "30" f="24" ></labPlus4>	 	 
+    <labPlus5  x = "121.0" y = "400.0" l = "800" a = "30" f="24" ></labPlus5>	 			 
+    <labPlus6  x = "121.0" y = "435.0" l = "800" a = "30" f="24" ></labPlus6>	 			 
+    <labPlus7  x = "121.0" y = "470.0" l = "800" a = "30" f="24" ></labPlus7>
+    <!-- Coordinate Pulsanti --> 
+    <!-- Pulsante CARICA --> 
+    <But0  x = "120.0" y = "90.0" l = "364.0" a = "124.0" img = "149.png" imgS = "149s.png" ></But0>
+    <!-- Pulsante SCARICA --> 
+    <But1  x = "540.0" y = "90.0" l = "364.0" a = "124.0" img = "150.png" imgS = "150s.png" ></But1>
+    <!-- Pulsante OK - CONFERMA CODICE MATERIA PRIMA --> 
+    <But2  x = "896.0" y = "230.0" l = "74.0"  a = "74.0" img = "151.png" imgS = "151s.png" ></But2>
+    <!-- Pulsante OK - CONFERMA QUANTITA MATERIA PRIMA --> 
+    <But3  x = "464.0" y = "320.0" l = "74.0"  a = "74.0" img = "151.png" imgS = "151s.png" ></But3>
+    <!-- Pulsante PRESA DIETRO --> 
+    <But4  x = "714.0" y = "340.0" l = "74.0"  a = "74.0" img = "152.png" imgS = "152s.png" ></But4>
+    <!-- Pulsante PRESA AVANTI --> 
+    <But5  x = "910.0" y = "340.0" l = "74.0"  a = "74.0" img = "153.png" imgS = "153s.png" ></But5>
+    <!-- Pulsante OK - CONFERMA QUANTITA MATERIA PRIMA --> 
+    <But6  x = "570.0" y = "354.0" l = "74.0"  a = "74.0" img = "151.png" imgS = "151s.png" ></But6>
+    <!-- Pulsante OK - CONFERMA / AVVIO / STOP / SCARICA --> 
+    <But7  x = "800.0" y = "440.0" l = "174.0" a = "94.0" img = "154.png" imgS = "154s.png" ></But7>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "555.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "585.0" l = "860" a = "160" f="20" ></labHelp1>	 
+    <!-- Coordinate Label Simple --> 	
+    <!-- Coordinate Label Pulsanti - CARICA --> 
+    <labSimple0  x = "148.0" y = "160.0" l = "150" a = "38" f="24" ></labSimple0>
+    <!-- Coordinate Label Pulsanti - SCARICA --> 		
+    <labSimple1  x = "567.0" y = "160.0" l = "150" a = "38" f="24" ></labSimple1>
+    <!-- Coordinate Dettaglio Componenti - Riga 0 --> 
+    <labSimple2  x = "120.0" y = "300.0" l = "80"  a = "20" f="16" ></labSimple2>		
+    <labSimple3  x = "220.0" y = "300.0" l = "480" a = "20" f="16" ></labSimple3>	    
+    <labSimple4  x = "565.0" y = "300.0" l = "140" a = "20" f="16" ></labSimple4>  
+    <labSimple5  x = "738.0" y = "300.0" l = "240" a = "20" f="16" ></labSimple5>  
+    <!-- Coordinate Dettaglio Componenti - Riga 1 --> 
+    <labSimple6  x = "120.0" y = "320.0" l = "80"  a = "20" f="16" ></labSimple6>		
+    <labSimple7  x = "220.0" y = "320.0" l = "480" a = "20" f="16" ></labSimple7>	    
+    <labSimple8  x = "565.0" y = "320.0" l = "140" a = "20" f="16" ></labSimple8>  
+    <labSimple9  x = "738.0" y = "320.0" l = "240" a = "20" f="16" ></labSimple9>  
+    <!-- Coordinate Dettaglio Componenti - Riga 2 --> 
+    <labSimple10 x = "120.0" y = "340.0" l = "80"  a = "20" f="16" ></labSimple10>		
+    <labSimple11 x = "220.0" y = "340.0" l = "480" a = "20" f="16" ></labSimple11>	    
+    <labSimple12 x = "565.0" y = "340.0" l = "140" a = "20" f="16" ></labSimple12>  
+    <labSimple13 x = "738.0" y = "340.0" l = "240" a = "20" f="16" ></labSimple13>  
+    <!-- Coordinate Dettaglio Componenti - Riga 3 --> 
+    <labSimple14 x = "120.0" y = "360.0" l = "80"  a = "20" f="16" ></labSimple14>		
+    <labSimple15 x = "220.0" y = "360.0" l = "480" a = "20" f="16" ></labSimple15>	    
+    <labSimple16 x = "565.0" y = "360.0" l = "140" a = "20" f="16" ></labSimple16>  
+    <labSimple17 x = "738.0" y = "360.0" l = "240" a = "20" f="16" ></labSimple17>  
+    <!-- Coordinate Dettaglio Componenti - Riga 4 --> 
+    <labSimple18 x = "120.0" y = "380.0" l = "80"  a = "20" f="16" ></labSimple18>		
+    <labSimple19 x = "220.0" y = "380.0" l = "480" a = "20" f="16" ></labSimple19>	    
+    <labSimple20 x = "565.0" y = "380.0" l = "140" a = "20" f="16" ></labSimple20>  
+    <labSimple21 x = "738.0" y = "380.0" l = "240" a = "20" f="16" ></labSimple21>   
+    <!-- Coordinate Dettaglio Componenti - Riga 5 --> 
+    <labSimple22 x = "120.0" y = "400.0" l = "80"  a = "20" f="16" ></labSimple22>		
+    <labSimple23 x = "220.0" y = "400.0" l = "480" a = "20" f="16" ></labSimple23>	    
+    <labSimple24 x = "565.0" y = "400.0" l = "140" a = "20" f="16" ></labSimple24>  
+    <labSimple25 x = "738.0" y = "400.0" l = "240" a = "20" f="16" ></labSimple25>  
+    <!-- Coordinate Dettaglio Componenti - Riga 6 -->
+    <labSimple26 x = "120.0" y = "420.0" l = "80"  a = "20" f="16" ></labSimple26>		
+    <labSimple27 x = "220.0" y = "420.0" l = "480" a = "20" f="16" ></labSimple27>	    
+    <labSimple28 x = "565.0" y = "420.0" l = "140" a = "20" f="16" ></labSimple28>  
+    <labSimple29 x = "738.0" y = "420.0" l = "240" a = "20" f="16" ></labSimple29>   
+    <!-- Coordinate Dettaglio Componenti - Riga 7 --> 
+    <labSimple30 x = "120.0" y = "440.0" l = "80"  a = "20" f="16" ></labSimple30>		
+    <labSimple31 x = "220.0" y = "440.0" l = "480" a = "20" f="16" ></labSimple31>	    
+    <labSimple32 x = "565.0" y = "440.0" l = "140" a = "20" f="16" ></labSimple32>  
+    <labSimple33 x = "738.0" y = "440.0" l = "240" a = "20" f="16" ></labSimple33>  
+    <!-- Coordinate Dettaglio Componenti - Riga 8 --> 
+    <labSimple34 x = "120.0" y = "460.0" l = "80"  a = "20" f="16" ></labSimple34>		
+    <labSimple35 x = "220.0" y = "460.0" l = "480" a = "20" f="16" ></labSimple35>	    
+    <labSimple36 x = "565.0" y = "460.0" l = "140" a = "20" f="16" ></labSimple36>  
+    <labSimple37 x = "738.0" y = "460.0" l = "240" a = "20" f="16" ></labSimple37>   
+    <!-- Coordinate Dettaglio Componenti - Riga 9 --> 
+    <labSimple38 x = "120.0" y = "480.0" l = "80"  a = "20" f="16" ></labSimple38>		
+    <labSimple39 x = "220.0" y = "480.0" l = "480" a = "20" f="16" ></labSimple39>	    
+    <labSimple40 x = "565.0" y = "480.0" l = "140" a = "20" f="16" ></labSimple40>  
+    <labSimple41 x = "738.0" y = "480.0" l = "240" a = "20" f="16" ></labSimple41>   
+    <!-- Coordinate Dettaglio Compoenti - Riga 10 --> 
+    <labSimple42 x = "120.0" y = "500.0" l = "80"  a = "20" f="16" ></labSimple42>		
+    <labSimple43 x = "220.0" y = "500.0" l = "480" a = "20" f="16" ></labSimple43>	    
+    <labSimple44 x = "565.0" y = "500.0" l = "140" a = "20" f="16" ></labSimple44>  
+    <labSimple45 x = "738.0" y = "500.0" l = "240" a = "20" f="16" ></labSimple45>   
+    <!-- Coordinate Materia Prima Selezionata --> 
+    <labSimple46 x = "121.0" y = "163.0" l = "820.0" a = "32" f="25" ></labSimple46>
+    <!-- Coordinate Codice Materia Prima Selezionata --> 
+    <labSimple47 x = "121.0" y = "263.0" l = "720.0" a = "32" f="25" ></labSimple47>
+    <!-- Coordinate Codice Materia Prima PRESENTE --> 
+    <labSimple48  x = "315.0" y = "423.0"  l = "440" a = "32" f="25" ></labSimple48>  
+     <!-- Coordinate Codice Materia Prima PRESENTE unità di misura --> 
+    <labSimple49  x = "505.0" y = "423.0"  l = "440" a = "32" f="25" ></labSimple49> 
+     <!-- Coordinate Label Titoli "QUANTITA" --> 
+    <labSimple50  x = "315.0" y = "478.0"  l = "200" a = "32" f="25" ></labSimple50>
+    <!-- Coordinate Label Titoli "QUANTITA" --> 
+    <labSimple51  x = "505.0" y = "478.0"  l = "440" a = "32" f="25" ></labSimple51> 
+    <!-- Coordinate Label Titoli "PRESE" --> 
+    <labSimple52  x = "792.0" y = "320.0"  l = "440" a = "110" f="80" ></labSimple52> 
+    <!-- Coordinate Label Titoli "PRESE" --> 
+    <labSimple53  x = "815.0" y = "480.0"  l = "140" a = "110" f="25" ></labSimple53> 
+    <!-- Coordinate Label Titoli "PRESE" --> 
+    <labSimple54  x = "870.0" y = "370.0"  l = "140" a = "110" f="56" ></labSimple54> 
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "46" f="40" ></labTitle0>
+    <!-- Coordinate Label Titoli Tabella --> 
+    <labTitle1  x = "113.0" y = "240.0" l = "80" a = "46" f="18" ></labTitle1>		
+    <labTitle2  x = "232.0" y = "240.0" l = "480" a = "38" f="18" ></labTitle2>
+    <labTitle3  x = "565.0" y = "240.0" l = "160" a = "38" f="18" ></labTitle3>
+    <labTitle4  x = "738.0" y = "240.0" l = "160" a = "38" f="18" ></labTitle4> 
+    <!-- Coordinate Label Titoli "MATERIA PRIMA" --> 
+    <labTitle5  x = "111.0" y = "125.0"  l = "440" a = "28" f="24" ></labTitle5> 
+    <!-- Coordinate Label Titoli "CODICE COMPONENTE" --> 
+    <labTitle6  x = "111.0" y = "225.0"  l = "440" a = "28" f="24" ></labTitle6> 
+    <!-- Coordinate Label Titoli "QUANTITA" --> 
+    <labTitle7  x = "111.0" y = "320.0"  l = "440" a = "28" f="24" ></labTitle7> 
+     <!-- Coordinate Label Titoli "QUANTITA" --> 
+    <labTitle8  x = "111.0" y = "425.0"  l = "440" a = "22" f="18" ></labTitle8> 
+     <!-- Coordinate Label Titoli "QUANTITA" --> 
+    <labTitle9  x = "111.0" y = "480.0"  l = "440" a = "22" f="18" ></labTitle9> 
+    <!-- Coordinate Label Titoli "CONTENITORE" --> 
+    <labTitle10  x = "573.0" y = "315.0"  l = "440" a = "28" f="24" ></labTitle10> 
+    
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>			
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "103.jpg" ></sfondoImg>  
+    <!-- Coordinate di Colore -->
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "240" green = "240" blue = "240" ></colore0>
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+    <!-- ELEMENT LABEL TEXTFIELD --> 
+    <colore3 red = "20" green = "20" blue = "20" ></colore3>
+    <!-- ELEMENTI LISTA SELEZIONABILI --> 
+    <colore4 red = "0" green = "0" blue = "0" ></colore4>
+    <!-- ELEMENTI LISTA NON SELEZIONABILI -->
+    <colore5 red = "210" green = "210" blue = "210" ></colore5>
+    <!-- ELEMENTI LISTA NON SELEZIONATI -->
+    <colore6 red = "140" green = "20" blue = "20" ></colore6>
+    <!-- ELEMENTI LABEL SIMPLE PRESA ASSEGNATA -->
+    <colore7 red = "140" green = "20" blue = "20" ></colore7>
+    <!-- ELEMENTI LABEL SILO SUGGERITO -->
+    <colore8 red = "160" green = "80" blue = "80" ></colore8> 
+    <!-- Coordinate JTextLabel MATERIA PRIMA--> 
+    <textField x = "121.0" y = "165.0" l = "720.0" a = "26.0"  f="28.0" ></textField> 
+    <!-- Coordinate JTextLabel CODICE MATERIA --> 
+    <textField0 x = "121.0" y = "265.0" l = "720.0" a = "30.0"  f="28.0" ></textField0> 
+    <!-- Coordinate JTextLabel QUANTITA MATERIA --> 
+    <textField1 x = "315.0" y = "480.0" l = "200.0" a = "30.0"  f="28.0" ></textField1>   
+    <!-- Coordinate Button Info --> 
+    <butInfo x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="tINFO.png" imgS = "tINFOs.png" ></butInfo>
+    <!-- Coordinate Immagini Ausiliarie-->
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux0 x = "0.0" y = "0.0"  img = "104.png" ></labImageAux0> 
+    <!-- Image Sfondo Codice materie Prime --> 
+    <labImageAux1 x = "0.0" y = "0.0"  img = "105.png" ></labImageAux1> 
+    <!-- Image Sfondo Quantita materie Prime --> 
+    <labImageAux2 x = "0.0" y = "0.0"  img = "106.png" ></labImageAux2> 
+    <!-- Image Sfondo Selezione Contenitore --> 
+    <labImageAux3 x = "0.0" y = "0.0"  img = "107.png" ></labImageAux3>  
+    <!-- Image Sfondo Selezione Contenitore --> 
+    <labImageAux4 x = "0.0" y = "0.0"  img = "108.png" ></labImageAux4>  
+</params>

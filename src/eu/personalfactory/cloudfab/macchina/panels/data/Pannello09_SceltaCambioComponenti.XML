@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "118.0"  y = "138.0" l = "74.0" a = "56.0" img = "198.png" imgS = "198s.png" ></But0>
+    <But1  x = "878.0"  y = "138.0" l = "74.0" a = "56.0" img = "199.png" imgS = "199s.png" ></But1>
+    <But2  x = "118.0"  y = "208.0" l = "74.0" a = "56.0" img = "198.png" imgS = "198s.png" ></But2>
+    <But3  x = "878.0"  y = "208.0" l = "74.0" a = "56.0" img = "199.png" imgS = "199s.png" ></But3>
+    <But4  x = "118.0"  y = "278.0" l = "74.0" a = "56.0" img = "198.png" imgS = "198s.png" ></But4>
+    <But5  x = "878.0"  y = "278.0" l = "74.0" a = "56.0" img = "199.png" imgS = "199s.png" ></But5>
+    <But6  x = "118.0"  y = "348.0" l = "74.0" a = "56.0" img = "198.png" imgS = "198s.png" ></But6>
+    <But7  x = "878.0"  y = "348.0" l = "74.0" a = "56.0" img = "199.png" imgS = "199s.png" ></But7>
+    <But8  x = "718.0"  y = "418.0" l = "234.0" a = "94.0" img = "200.png" imgS = "200s.png" ></But8>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "555.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "605.0" l = "860" a = "160" f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "220.0" y = "138.0" l = "640" a = "52"  f="24" ></labSimple0>		
+    <labSimple1  x = "220.0" y = "208.0" l = "640" a = "52"  f="24" ></labSimple1>
+    <labSimple2  x = "220.0" y = "278.0" l = "640" a = "52"  f="24" ></labSimple2>		
+    <labSimple3  x = "220.0" y = "348.0" l = "640" a = "52"  f="24" ></labSimple3>
+    <labSimple4  x = "735.0" y = "428.0" l = "200" a = "74"  f="24" ></labSimple4>	
+    <!-- Coordinate Label Titoli -->
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>	
+     <!-- Image Dettagli Carico --> 
+    <labImageAux0 x = "200.0" y = "142.0" img = "126.jpg" ></labImageAux0> 
+    <labImageAux1 x = "200.0" y = "212.0" img = "126.jpg" ></labImageAux1>
+    <labImageAux2 x = "200.0" y = "282.0" img = "126.jpg" ></labImageAux2> 
+    <labImageAux3 x = "200.0" y = "352.0" img = "126.jpg" ></labImageAux3>  		
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "01.jpg" ></sfondoImg>  
+    <!-- Coordinate di Colore -->
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "20" green = "20" blue = "20" ></colore0>
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "20" green = "20" blue = "20" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2>
+    <!-- COMPONENTI DI FORMULA --> 
+    <colore3 red = "180" green = "50" blue = "50" ></colore3>   
+    <!-- COMPONENTI DI SOSTITUTIVI --> 
+    <colore4 red = "80" green = "80" blue = "80" ></colore4>
+</params> 

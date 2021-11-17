@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <!-- Coordinate Button Invio --> 
+    <But0 x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="45.png" imgS = "45s.png" ></But0>
+    <But1 x = "873.0" y = "163.0" l = "94.0" a = "94.0" img ="81.png" imgS = "81s.png" ></But1>
+    <But2 x = "873.0" y = "280.0" l = "94.0" a = "94.0" img ="82.png" imgS = "82s.png" ></But2>
+    <But3 x = "873.0" y = "397.0" l = "94.0" a = "94.0" img ="83.png" imgS = "83s.png" ></But3>
+      
+    <!-- Coordinate Label Messaggio Aiuto --> 
+    <labHelp0 x = "338.0" y = "308.0" l = "470" a = "20" f="24" ></labHelp0> 	
+    <labHelp1 x = "338.0" y = "338.0" l = "470" a = "160" f="20" ></labHelp1>  
+    <!-- Coordinate Label Materia Selezionata --> 
+    <labSimple0  x = "140.0" y = "137.0" l = "600" a = "35"  f="30" ></labSimple0> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "85.jpg" ></sfondoImg> 
+    <!-- Coordinate Label Title -->  
+    <labTitle0  x = "10.0"  y = "18.0"  l = "840" a = "48" f="44" ></labTitle0>
+    <labTitle1  x = "130.0" y = "97.0"  l = "600" a = "32" f="30" ></labTitle1>
+    <labTitle2  x = "130.0" y = "184.0" l = "600" a = "32" f="30" ></labTitle2>
+    <!-- Coordinate JTextLabel --> 
+    <textField x = "140.0" y = "224.0" l = "900.0" a = "30.0"  f="30.0" ></textField>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "200" green = "80" blue = "20" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+</params> 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <!-- PULSANTE 1 da dx verso sx --> 
+    <But0  x = "296.0" y = "245.0"  l = "214.0" a = "109.0" img = "91.png" imgS = "91s.png" ></But0> 
+    <!-- PULSANTE 2 da dx verso sx --> 
+    <But1  x = "20.0" y = "245.0"  l = "214.0" a = "109.0" img = "92.png" imgS = "92s.png" ></But1>   
+    <!-- Coordinate Label Pulsanti --> 
+    <!-- Testo Pulsante 1 da dx verso sx -->
+    <labSimple0  x = "339.0" y = "278.0"  l = "150.0" a = "44.0" f="22" ></labSimple0>
+    <!-- Testo Pulsante 2 da dx verso sx -->
+    <labSimple1  x = "59.0" y = "278.0"  l = "150.0" a = "44.0" f="22" ></labSimple1> 
+    <!-- Testo Spiegazioni Errore -->
+    <labSimple2  x = "208.0"  y = "110.0"  l = "300.0" a = "360.0" f="16" ></labSimple2> 
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "15.0" y = "15.0"  l = "620" a = "30" f="26" ></labTitle0> 				  
+    <!-- Coordinate Immagine di Sfondo --> 
+    <sfondoImg img = "57.jpg" ></sfondoImg>
+    <!-- Coordinate Immagini Ausiliarie-->
+    <labImageAux0  x = "0.0" y = "0.0" img = "58.png" ></labImageAux0> 
+    <labImageAux1  x = "0.0" y = "0.0" img = "59.png" ></labImageAux1>
+    <labImageAux2  x = "0.0" y = "0.0" img = "86.png" ></labImageAux2>
+    <labImageAux3  x = "0.0" y = "0.0" img = "87.png" ></labImageAux3>
+    <labImageAux4  x = "0.0" y = "0.0" img = "131.png" ></labImageAux4> 
+    <labImageAux5  x = "0.0" y = "0.0" img = "132.png" ></labImageAux5>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "210" green = "210" blue = "210"></colore0>
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+    <!-- OPACITY -->
+    <opacity value = "0.85" ></opacity> 
+</params> 

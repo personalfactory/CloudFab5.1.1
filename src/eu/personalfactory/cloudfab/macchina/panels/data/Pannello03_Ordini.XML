@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params> 
+    <!-- Coordinate Pulsanti --> 
+    <But0 x = "101.0" y = "519.0" l = "49.0" a = "69.0" img = "140.png" imgS = "140s.png" ></But0>
+    <But1 x = "328.0" y = "519.0" l = "49.0" a = "69.0" img = "141.png" imgS = "141s.png" ></But1>
+    <But2 x = "933.0" y = "125.0" l = "74.0" a = "56.0" img = "142.png" imgS = "142s.png" ></But2>
+    <But3 x = "933.0" y = "425.0" l = "74.0" a = "56.0" img = "143.png" imgS = "143s.png" ></But3>
+    <But4 x = "918.0" y = "280.0" l = "89.0" a = "74.0" img = "144.png" imgS = "144s.png" ></But4>
+    <But5 x = "538.0" y = "520.0" l = "174.0" a = "64.0" img = "145.png" imgS = "145s.png" ></But5>
+    <But6 x = "730.0" y = "520.0" l = "174.0" a = "64.0" img = "146.png" imgS = "146s.png" ></But6>
+    <But7 x = "918.0" y = "518.0" l = "89.0" a = "74.0" img = "147.png" imgS = "147s.png" ></But7>
+    <But8 x = "918.0" y = "518.0" l = "89.0" a = "74.0" img = "148.png" imgS = "148s.png" ></But8>
+    
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 1 --> 
+    <labSimple0 x = "118.0" y = "146.0" l = "420" a = "20" f="18" ></labSimple0>  
+    <labSimple1 x = "575.0" y = "146.0" l = "80"  a = "20" f="18" ></labSimple1>	 
+    <labSimple2 x = "704.0" y = "146.0" l = "80"  a = "20" f="18" ></labSimple2>	 	 
+    <labSimple3 x = "849.0" y = "146.0" l = "80"  a = "20" f="18" ></labSimple3> 
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 2 --> 	 	 
+    <labSimple4  x = "118.0" y = "186.0" l = "420" a = "20" f="18" ></labSimple4>  
+    <labSimple5  x = "575.0" y = "186.0" l = "80"  a = "20" f="18" ></labSimple5>	 
+    <labSimple6  x = "704.0" y = "186.0" l = "80"  a = "20" f="18" ></labSimple6>	 	 
+    <labSimple7  x = "849.0" y = "186.0" l = "80"  a = "20" f="18" ></labSimple7>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 3 --> 	 	 
+    <labSimple8  x = "118.0" y = "226.0" l = "420" a = "20" f="18" ></labSimple8>  
+    <labSimple9  x = "575.0" y = "226.0" l = "80"  a = "20" f="18" ></labSimple9>	 
+    <labSimple10 x = "704.0" y = "226.0" l = "80"  a = "20" f="18" ></labSimple10>	 	 
+    <labSimple11 x = "849.0" y = "226.0" l = "80"  a = "20" f="18" ></labSimple11>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 4 --> 	 	
+    <labSimple12 x = "118.0" y = "266.0" l = "420" a = "20" f="18" ></labSimple12>  
+    <labSimple13 x = "575.0" y = "266.0" l = "80"  a = "20" f="18" ></labSimple13>	 
+    <labSimple14 x = "704.0" y = "266.0" l = "80"  a = "20" f="18" ></labSimple14>	 	 
+    <labSimple15 x = "849.0" y = "266.0" l = "80"  a = "20" f="18" ></labSimple15>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 5 --> 	 	 
+    <labSimple16 x = "118.0" y = "306.0" l = "420" a = "20" f="18" ></labSimple16>  
+    <labSimple17 x = "575.0" y = "306.0" l = "80"  a = "20" f="18" ></labSimple17>	 
+    <labSimple18 x = "704.0" y = "306.0" l = "80"  a = "20" f="18" ></labSimple18>	 	 
+    <labSimple19 x = "849.0" y = "306.0" l = "80"  a = "20" f="18" ></labSimple19>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 6 --> 	 	 
+    <labSimple20 x = "118.0" y = "346.0" l = "420" a = "20" f="18" ></labSimple20>  
+    <labSimple21 x = "575.0" y = "346.0" l = "80"  a = "20" f="18" ></labSimple21>	 
+    <labSimple22 x = "704.0" y = "346.0" l = "80"  a = "20" f="18" ></labSimple22>	 	 
+    <labSimple23 x = "849.0" y = "346.0" l = "80"  a = "20" f="18" ></labSimple23>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 7 --> 	 	 
+    <labSimple24 x = "118.0" y = "386.0" l = "420" a = "20" f="18" ></labSimple24>  
+    <labSimple25 x = "575.0" y = "386.0" l = "80"  a = "20" f="18" ></labSimple25>	 
+    <labSimple26 x = "704.0" y = "386.0" l = "80"  a = "20" f="18" ></labSimple26>	 	 
+    <labSimple27 x = "849.0" y = "386.0" l = "80"  a = "20" f="18" ></labSimple27>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 8 --> 	 	 
+    <labSimple28 x = "118.0" y = "426.0" l = "420" a = "20" f="18" ></labSimple28>  
+    <labSimple29 x = "575.0" y = "426.0" l = "80"  a = "20" f="18" ></labSimple29>	 
+    <labSimple30 x = "704.0" y = "426.0" l = "80"  a = "20" f="18" ></labSimple30>	 	 
+    <labSimple31 x = "849.0" y = "426.0" l = "80"  a = "20" f="18" ></labSimple31>
+    <!-- Coordinate Label Lista Non Selezionabile - Riga 9 --> 	 	 
+    <labSimple32 x = "118.0" y = "466.0" l = "420" a = "20" f="18" ></labSimple32>  
+    <labSimple33 x = "575.0" y = "466.0" l = "80"  a = "20" f="18" ></labSimple33>	 
+    <labSimple34 x = "704.0" y = "466.0" l = "80"  a = "20" f="18" ></labSimple34>	 	 
+    <labSimple35 x = "849.0" y = "466.0" l = "80"  a = "20" f="18" ></labSimple35>
+    <!-- Coordinate Label Data --> 	
+    <labSimple36 x = "163.0" y = "540.0" l = "160"  a = "26" f="24" ></labSimple36>
+    <!-- Coordinate Label Testo Pulsante IGNORA --> 	
+    <labSimple37 x = "566.0" y = "540.0" l = "160"  a = "26" f="22" ></labSimple37>
+     <!-- Coordinate Label Testo Pulsante CONFERMA--> 	
+    <labSimple38 x = "758.0" y = "540.0" l = "160"  a = "26" f="22" ></labSimple38>
+    
+   
+    <!-- Coordinate Label Messaggio Aiuto -->
+    <labHelp0  x = "60.0"  y = "615.0" l = "900" a = "20"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "645.0" l = "900" a = "160"  f="20" ></labHelp1> 
+    <!-- Coordinate Label Titoli -->  
+    <labTitle0  x = "10.0"  y = "18.0" l = "820" a = "48" f="48" ></labTitle0> 
+    <labTitle1  x = "118.0" y = "99.0" l = "180" a = "20" f="18" ></labTitle1> 
+    <labTitle2  x = "525.0" y = "99.0" l = "180" a = "20" f="18" ></labTitle2> 
+    <labTitle3  x = "654.0" y = "99.0" l = "180" a = "20" f="18" ></labTitle3> 
+    <labTitle4  x = "839.0" y = "99.0" l = "180" a = "20" f="18" ></labTitle4> 
+     
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>		 
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "102.jpg" ></sfondoImg>
+     <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0>
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "20" green = "20" blue = "20" ></colore1>
+    <!-- ELEMENTI LABEL SIMPLE BIANCO -->
+    <colore2 red = "255" green = "255" blue = "255" ></colore2>
+    <!-- ELEMENTI LABEL SIMPLE GRIGIO -->
+    <colore3 red = "0" green = "3" blue = "131" ></colore3>
+    <!-- ELEMENTI LABEL SIMPLE BLU -->
+    <colore4 red = "120" green = "120" blue = "120" ></colore4>
+    <!-- ELEMENT LABEL TITLE TABELLA--> 
+    <colore5 red = "40" green = "40" blue = "40" ></colore5>
+    <!-- ELEMENT LABEL SIMPLE DATA --> 
+    <colore6 red = "40" green = "40" blue = "40" ></colore6>
+      <!-- ELEMENT LABEL SIMPLE PULSANTI --> 
+    <colore7 red = "40" green = "40" blue = "40" ></colore7>
+    <!-- ELEMENTI LABEL SIMPLE ARANCIO -->
+    <colore8 red = "255" green = "110" blue = "0" ></colore8>
+    <!-- ELEMENTI LABEL SIMPLE ROSSO -->
+    <colore9 red = "255" green = "255" blue = "50" ></colore9>
+</params> 
+ 

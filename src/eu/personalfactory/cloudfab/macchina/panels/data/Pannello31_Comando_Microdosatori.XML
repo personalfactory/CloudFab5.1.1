@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+ <!-- Coordinate Pulsanti --> 
+ <!--BUTTON AVANTI -->
+ <But0  x = "667.0" y = "91.0"  l = "74.0" a = "56.0" img = "131.png" imgS = "131s.png" ></But0>
+ <!--BUTTON INDIETRO -->
+ <But1  x = "288.0" y = "91.0"  l = "74.0" a = "56.0" img = "132.png" imgS = "132s.png" ></But1>
+ <!--BUTTON S1 -->
+ <But2  x = "58.0"  y = "675.0"  l = "159.0" a = "64.0" img = "133.png" imgS = "133s.png" ></But2>
+ <!--BUTTON S2 -->
+ <But3  x = "298.0" y = "675.0"  l = "159.0" a = "64.0" img = "134.png" imgS = "134s.png" ></But3>
+ <!--BUTTON S3 -->
+ <But4  x = "538.0" y = "675.0"  l = "159.0" a = "64.0" img = "135.png" imgS = "135s.png" ></But4>
+ <!--BUTTON ST -->
+ <But5  x = "778.0" y = "675.0"  l = "159.0" a = "64.0" img = "136.png" imgS = "136s.png" ></But5>
+ <!--BUTTON M-ON -->
+ <But6  x = "688.0" y = "270.0"  l = "86.0" a = "86.0" img = "137.png" imgS = "137s.png" ></But6>
+ <!--BUTTON M-OFF -->
+ <But7  x = "798.0" y = "270.0"  l = "86.0" a = "86.0" img = "138.png" imgS = "138s.png" ></But7>
+ <!--BUTTON PESO-ON -->
+ <But8  x = "788.0" y = "490.0"  l = "86.0" a = "86.0" img = "137.png" imgS = "137s.png" ></But8>
+ <!--BUTTON PESO-OFF -->
+ <But9  x = "898.0" y = "490.0"  l = "86.0" a = "86.0" img = "138.png" imgS = "138s.png" ></But9>
+ <!-- Coordinate Label non Selezionabili --> 
+ <labSimple0  x = "458.0" y = "90" l = "100" a = "62" f="60" ></labSimple0>
+ <!-- TESTO PESO MICRODOSATORE --> 
+ <labSimple1 x = "316.0" y = "526.0" l = "300" a = "58" f="48"  ></labSimple1>
+ <!-- Coordinate Label Messaggio Aiuto --> 
+ <labHelp0 x = "60.0" y = "555.0" l = "900" a = "20" f="24" ></labHelp0> 	
+ <labHelp1 x = "60.0" y = "585.0" l = "900" a = "160" f="20" ></labHelp1>	 
+ <!-- Coordinate Label Titoli --> 
+ <!-- Titolo del Pannello --> 
+ <labTitle0  x = "10.0"  y = "18.0"  l = "820" a = "48" f="48" ></labTitle0> 
+ <!-- Titolo "VELOCITÀ MICRODOSATORE" --> 
+ <labTitle1  x = "28.0"  y = "620.0" l = "400" a = "26" f="24" ></labTitle1>
+
+ <!-- Coordinate JTextLabel --> 
+ <textField x = "130.0" y = "126.0" l = "680.0" a = "48.0"  f="48.0" ></textField> 
+ <!-- Coordinate Button Freccia Indietro --> 
+ <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>
+ <!-- Image Sfondo --> 
+ <sfondoImg img = "93.png" ></sfondoImg> 
+ <!-- Coordinate Colore -->  
+ <!-- Coordinate Immagini Ausiliarie-->
+  <!-- Image Dettagli Carico --> 
+ <labImageAux0 x = "0.0" y = "0.0"  img = "96.png" ></labImageAux0> 
+ <labImageAux1 x = "0.0" y = "0.0"  img = "97.png" ></labImageAux1> 
+ <labImageAux2 x = "0.0" y = "0.0"  img = "98.png" ></labImageAux2> 
+ <labImageAux3 x = "0.0" y = "0.0"  img = "99.png" ></labImageAux3> 
+ <labImageAux4 x = "0.0" y = "0.0"  img = "100.png" ></labImageAux4> 
+ <labImageAux5 x = "0.0" y = "0.0"  img = "101.png" ></labImageAux5> 
+ <labImageAux6 x = "809.0" y = "403.0"  img = "128.png" ></labImageAux6> 
+ <labImageAux7 x = "855.0" y = "403.0"  img = "129.png" ></labImageAux7>   
+ <!-- COLORI LABEL TITLE --> 
+ <colore0 red = "240" green = "240" blue = "240" ></colore0>   
+ <!-- COLORI LABEL SIMPLE --> 
+ <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+</params> 

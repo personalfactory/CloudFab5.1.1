@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "80.0"  y = "165.0" l = "370.0" a = "155.0" img = "00.png" imgS = "00s.png" ></But0>
+    <But1  x = "600.0" y = "165.0" l = "370.0" a = "155.0" img = "01.png" imgS = "01s.png" ></But1>
+    <But2  x = "80.0"  y = "375.0" l = "370.0" a = "155.0" img = "02.png" imgS = "02s.png" ></But2>
+    <But3  x = "600.0" y = "375.0" l = "370.0" a = "155.0" img = "03.png" imgS = "03s.png" ></But3>
+    <But4  x = "24.0"  y = "603.0" l = "235.0" a = "150.0" img = "04.png" imgS = "04s.png" ></But4>
+    <But5  x = "271.0" y = "603.0" l = "235.0" a = "150.0" img = "05.png" imgS = "05s.png" ></But5>
+    <But6  x = "518.0" y = "603.0" l = "235.0" a = "150.0" img = "06.png" imgS = "06s.png" ></But6>
+    <But7  x = "765.0" y = "603.0" l = "235.0" a = "150.0" img = "07.png" imgS = "07s.png" ></But7>
+    <!-- Coordinate Button Invio --> 
+    <But8 x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="45.png" imgS = "45s.png" ></But8> 
+    <!-- Coordinate Visibilita Comandi Manuali --> 
+    <But9 x = "680.0" y = "40.0" l = "94.0" a = "94.0" img ="204.png" imgS = "204s.png" ></But9>
+    <!-- Coordinate Label Messaggio Aiuto --> 
+    <labHelp0 x = "338.0" y = "308.0" l = "470" a = "20" f="24" ></labHelp0> 	
+    <labHelp1 x = "338.0" y = "338.0" l = "470" a = "160" f="20" ></labHelp1>  
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "100.0" y = "265.0" l = "500" a = "40"  f="34" ></labSimple0>
+    <labSimple1  x = "620.0" y = "265.0" l = "500" a = "40"  f="34" ></labSimple1>
+    <labSimple2  x = "100.0" y = "475.0" l = "500" a = "40"  f="34" ></labSimple2>
+    <labSimple3  x = "620.0" y = "475.0" l = "500" a = "40"  f="34" ></labSimple3>
+    <labSimple4  x = "41.0"  y = "710.0" l = "500" a = "24"  f="22" ></labSimple4>
+    <labSimple5  x = "288.0" y = "710.0" l = "500" a = "24"  f="22" ></labSimple5>
+    <labSimple6  x = "535.0" y = "710.0" l = "500" a = "24"  f="22" ></labSimple6>
+    <labSimple7  x = "782.0" y = "710.0" l = "500" a = "24"  f="22" ></labSimple7>
+    <!-- Image Dettagli Carico --> 
+    <labImageAux0 x = "0.0" y = "0.0" img = "84.jpg" ></labImageAux0>
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "00.jpg" ></sfondoImg> 
+    <!-- Coordinate Label Title -->  
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "42" f="42" ></labTitle0>
+    <labTitle1  x = "130.0" y = "125.0" l = "600" a = "30" f="30" ></labTitle1>
+    <!-- Coordinate JTextLabel --> 
+    <textField x = "140.0" y = "165.0" l = "760.0" a = "30.0"  f="30.0" ></textField>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "20" green = "20" blue = "20" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+    <!-- ELEMENT LABEL MESSAGGIO ERRORE --> 
+    <colore3 red = "240" green = "240" blue = "240" ></colore3>  
+</params> 

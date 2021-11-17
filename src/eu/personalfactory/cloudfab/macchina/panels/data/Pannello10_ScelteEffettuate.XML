@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params> 
+ <!-- Coordinate Pulsanti --> 
+ <But0  x = "112.0" y = "14.0"  l = "180.0" a = "45.0"  img = ""        imgS = "" ></But0> 
+ <But1  x = "306.0" y = "14.0"  l = "180.0" a = "45.0"  img = ""        imgS = "" ></But1> 
+ <But2  x = "500.0" y = "14.0"  l = "180.0" a = "45.0"  img = ""        imgS = "" ></But2> 	
+ <But3  x = "694.0" y = "14.0"  l = "180.0" a = "45.0"  img = ""        imgS = "" ></But3>  
+ <But4  x = "923.0" y = "670.0" l = "94.0"  a = "94.0"  img = "39.png"  imgS = "39s.png" ></But4>
+ <But5  x = "183.0" y = "682.0" l = "88.0"  a = "67.0"  img = "40.png"  imgS = "40s.png"  ></But5> 
+ <But6  x = "817.0" y = "682.0" l = "88.0"  a = "67.0"  img = "41.png"  imgS = "41s.png"  ></But6> 
+ <But7  x = "318.0" y = "680.0" l = "60.0"  a = "60.0"  img = ""        imgS = "" ></But7> 
+ <But8  x = "420.0" y = "680.0" l = "60.0"  a = "60.0"  img = ""        imgS = "" ></But8> 	
+ <But9  x = "522.0" y = "680.0" l = "60.0"  a = "60.0"  img = ""        imgS = "" ></But9>  
+ <But10 x = "624.0" y = "680.0" l = "60.0"  a = "60.0"  img = ""        imgS = "" ></But10> 
+ <But11 x = "726.0" y = "680.0" l = "60.0"  a = "60.0"  img = ""        imgS = "" ></But11> 
+ <But12 x = "660.0" y = "460.0" l = "260.0" a = "184.0" img = "107.png" imgS = "107s.png" ></But12> 
+ <!-- Coordinate Label Pulsanti --> 
+ <!-- Label Tab "DATI GENERALI" -->
+ <labSimple0  x = "112.0" y = "14.0"  l = "160.0" a = "45.0"  f="20" ></labSimple0> 
+ <!-- Label Tab "FORMULA PRODOTTO" -->
+ <labSimple1  x = "306.0" y = "14.0"  l = "160.0" a = "45.0"  f="20" ></labSimple1> 
+ <!-- Label Tab "FORMULA COLORI" -->
+ <labSimple2  x = "500.0" y = "14.0"  l = "160.0" a = "45.0"  f="20" ></labSimple2> 
+ <!-- Label Tab "ERRORI" -->
+ <labSimple3  x = "694.0" y = "14.0"  l = "160.0" a = "45.0"  f="20" ></labSimple3>  
+ <labSimple4  x = "140.0" y = "115.0" l = "780.0" a = "600.0"  f="24" ></labSimple4> 
+ <labSimple5  x = "140.0" y = "85.0"  l = "788.0" a = "400.0"  f="25" ></labSimple5> 
+ <labSimple6  x = "140.0" y = "125.0" l = "780.0" a = "400.0"  f="45" ></labSimple6> 
+ <labSimple7  x = "140.0" y = "315.0" l = "788.0" a = "400.0"  f="16" ></labSimple7> 
+ <labSimple8  x = "720.0" y = "480.0" l = "200.0" a = "160.0"  f="150" ></labSimple8> 
+  <!-- TAB FORMULA COLORE  -->
+ <!-- Label Presa I -->
+ <labSimple9  x = "318.0" y = "680.0" l = "148.0" a = "48.0"  f="48" ></labSimple9> 
+ <labSimple10  x = "307.0" y = "735.0" l = "80.0" a = "20.0"  f="20" ></labSimple10> 
+ <!-- Label Presa II -->
+ <labSimple11  x = "420.0" y = "680.0" l = "148.0" a = "48.0"  f="48" ></labSimple11> 
+ <labSimple12  x = "409.0" y = "735.0" l = "80.0" a = "20.0"  f="20" ></labSimple12> 
+ <!-- Label Presa III -->
+ <labSimple13  x = "522.0" y = "680.0" l = "148.0" a = "48.0"  f="48" ></labSimple13> 
+ <labSimple14 x = "511.0" y = "735.0" l = "80.0" a = "20.0"  f="20" ></labSimple14> 
+ <!-- Label Presa IV -->
+ <labSimple15 x = "624.0" y = "680.0" l = "148.0" a = "48.0"  f="48" ></labSimple15> 
+ <labSimple16  x = "613.0" y = "735.0" l = "80.0" a = "20.0"  f="20" ></labSimple16> 
+ <!-- Label Presa V -->
+ <labSimple17  x = "726.0" y = "680.0" l = "148.0" a = "48.0"  f="48" ></labSimple17> 
+ <labSimple18  x = "715.0" y = "735.0" l = "80.0" a = "20.0"  f="20" ></labSimple18> 
+ <!-- Label "SCEGLI UNA PRESA" -->
+ <labSimple19  x = "20.0" y = "690.0" l = "160.0" a = "60.0"  f="24" ></labSimple19>
+ <!-- TAB FORMULA COLORE  -->
+ <!-- Dettagli formula Colore-->
+ <labSimple20  x = "140.0" y = "115.0" l = "780.0" a = "600.0"  f="24" ></labSimple20>  
+  <!-- Label Formula Colore -->
+ <labSimple21  x = "140.0" y = "114.0" l = "650.0" a = "450.0"  f="20" ></labSimple21> 
+ <!-- Coordinate Label Titolo Progresso --> 
+ <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>
+ <!-- Coordinate Progress Bar --> 
+ <progBar  x = "20.0" y = "720.0" l = "300" a = "40"  ></progBar>
+ <!-- Coordinate Button Freccia Indietro --> 
+ <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>	 
+ <!-- Tab Image -->
+ <labImageAux0 img = "09_A.jpg" ></labImageAux0> 
+ <labImageAux1 img = "09_B.jpg" ></labImageAux1> 
+ <labImageAux2 img = "09_C.jpg" ></labImageAux2> 
+ <labImageAux3 img = "09_D.jpg" ></labImageAux3> 
+ <!-- Coordinate Colore --> 
+ <!--  PRESE SELEZIONATE --> 
+ <colore0 red = "210" green = "210" blue = "210" ></colore0>
+ <!-- PRESE SELEZIONABILI -->
+ <colore1 red = "140" green = "20" blue = "20" ></colore1>
+ <!-- ELEMENT LABEL SIMPLE -->
+ <colore2 red = "20" green = "20" blue = "20" ></colore2> 
+ <!-- ELEMENT LABEL HELP --> 
+ <colore3 red = "240" green = "240" blue = "240" ></colore3>   
+ <!-- ELEMENT LABEL TITLE --> 
+ <colore4 red = "240" green = "240" blue = "240" ></colore4> 
+ 
+</params> 

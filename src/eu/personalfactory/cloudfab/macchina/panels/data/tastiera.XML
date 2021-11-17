@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+<num  num="42"></num>  
+<!-- Coordinate Pulsanti Tastiera --> 
+
+<tasto32 x ="8.0"   y = "550.0" l = "64.0" a = "64.0" img = "tQ.png" imgS = "tQs.png" name ="Q"             ></tasto32>  
+<tasto41 x ="8.0"   y = "698.0" l = "64.0" a = "64.0" img = "tZ.png" imgS = "tZs.png" name ="Z"             ></tasto41>    
+<tasto16 x ="8.0"   y = "624.0" l = "64.0" a = "64.0" img = "tA.png" imgS = "tAs.png" name ="A"             ></tasto16>  
+
+<tasto34 x ="75.0"  y = "624.0" l = "64.0" a = "64.0" img = "tS.png" imgS = "tSs.png" name ="S"             ></tasto34>   
+<tasto38 x ="75.0"  y = "550.0" l = "64.0" a = "64.0" img = "tW.png" imgS = "tWs.png" name ="W"             ></tasto38>
+<tasto39 x ="75.0"  y = "698.0" l = "64.0" a = "64.0" img = "tX.png" imgS = "tXs.png" name ="X"             ></tasto39> 
+
+<tasto18 x ="142.0" y = "698.0" l = "64.0" a = "64.0" img = "tC.png" imgS = "tCs.png" name ="C"             ></tasto18>   
+<tasto19 x ="142.0" y = "624.0" l = "64.0" a = "64.0" img = "tD.png" imgS = "tDs.png" name ="D"             ></tasto19>  
+<tasto20 x ="142.0" y = "550.0" l = "64.0" a = "64.0" img = "tE.png" imgS = "tEs.png" name ="E"             ></tasto20> 
+ 
+<tasto33 x ="209.0" y = "550.0" l = "64.0" a = "64.0" img = "tR.png" imgS = "tRs.png" name ="R"             ></tasto33>   
+<tasto37 x ="209.0" y = "698.0" l = "64.0" a = "64.0" img = "tV.png" imgS = "tVs.png" name ="V"             ></tasto37>   
+<tasto21 x ="209.0" y = "624.0" l = "64.0" a = "64.0" img = "tF.png" imgS = "tFs.png" name ="F"             ></tasto21> 
+
+<tasto35 x ="276.0" y = "550.0" l = "64.0" a = "64.0" img = "tT.png" imgS = "tTs.png" name ="T"             ></tasto35>
+<tasto22 x ="276.0" y = "624.0" l = "64.0" a = "64.0" img = "tG.png" imgS = "tGs.png" name ="G"             ></tasto22>
+<tasto17 x ="276.0" y = "698.0" l = "64.0" a = "64.0" img = "tB.png" imgS = "tBs.png" name ="B"             ></tasto17> 
+
+<tasto23 x ="343.0" y = "624.0" l = "64.0" a = "64.0" img = "tH.png" imgS = "tHs.png" name ="H"             ></tasto23> 
+<tasto29 x ="343.0" y = "698.0" l = "64.0" a = "64.0" img = "tN.png" imgS = "tNs.png" name ="N"             ></tasto29>  
+<tasto40 x ="343.0" y = "550.0" l = "64.0" a = "64.0" img = "tY.png" imgS = "tYs.png" name ="Y"             ></tasto40> 
+
+<tasto36 x ="410.0" y = "550.0" l = "64.0" a = "64.0" img = "tU.png" imgS = "tUs.png" name ="U"             ></tasto36>  
+<tasto25 x ="410.0" y = "624.0" l = "64.0" a = "64.0" img = "tJ.png" imgS = "tJs.png" name ="J"             ></tasto25>  
+<tasto28 x ="410.0" y = "698.0" l = "64.0" a = "64.0" img = "tM.png" imgS = "tMs.png" name ="M"             ></tasto28>  
+
+<tasto24 x ="477.0" y = "550.0" l = "64.0" a = "64.0" img = "tI.png" imgS = "tIs.png" name ="I"             ></tasto24>
+<tasto26 x ="477.0" y = "624.0" l = "64.0" a = "64.0" img = "tK.png" imgS = "tKs.png" name ="K"             ></tasto26> 
+<tasto31 x ="477.0" y = "698.0" l = "64.0" a = "64.0" img = "tP.png" imgS = "tPs.png" name ="P"             ></tasto31>  
+
+<tasto27 x ="544.0" y = "624.0" l = "64.0" a = "64.0" img = "tL.png" imgS = "tLs.png" name ="L"             ></tasto27>  
+<tasto30 x ="544.0" y = "550.0" l = "64.0" a = "64.0" img = "tO.png" imgS = "tOs.png" name ="O"             ></tasto30>  
+<tasto15 x ="544.0" y = "698.0" l = "64.0" a = "64.0" img = "tSCORE.png" imgS = "tSCOREs.png" name ="-"     ></tasto15> 
+ 
+<tasto10 x ="611.0" y = "698.0" l = "80.0" a = "64.0" img = "tBACK.png"  imgS = "tBACKs.png"  name ="BACK"  ></tasto10>  
+<tasto11 x ="611.0" y = "550.0" l = "80.0" a = "64.0" img = "tCANC.png"  imgS = "tCANCs.png"  name ="CANC"  ></tasto11>  
+<tasto13 x ="611.0" y = "624.0" l = "80.0" a = "64.0" img = "tSPACE.png" imgS = "tSPACEs.png" name =" "     ></tasto13> 
+
+<tasto1  x ="694.0" y = "550.0" l = "64.0" a = "64.0" img = "t1.png" imgS = "t1s.png" name ="1"             ></tasto1> 
+<tasto4  x ="694.0" y = "624.0" l = "64.0" a = "64.0" img = "t4.png" imgS = "t4s.png" name ="4"             ></tasto4>  
+<tasto7  x ="694.0" y = "698.0" l = "64.0" a = "64.0" img = "t7.png" imgS = "t7s.png" name ="7"             ></tasto7> 
+
+<tasto2  x ="761.0" y = "550.0" l = "64.0" a = "64.0" img = "t2.png" imgS = "t2s.png" name ="2"             ></tasto2>  
+<tasto5  x ="761.0" y = "624.0" l = "64.0" a = "64.0" img = "t5.png" imgS = "t5s.png" name ="5"             ></tasto5>   
+<tasto8  x ="761.0" y = "698.0" l = "64.0" a = "64.0" img = "t8.png" imgS = "t8s.png" name ="8"             ></tasto8>  
+
+<tasto9  x ="828.0" y = "698.0" l = "64.0" a = "64.0" img = "t9.png" imgS = "t9s.png" name ="9"             ></tasto9>  
+<tasto6  x ="828.0" y = "624.0" l = "64.0" a = "64.0" img = "t6.png" imgS = "t6s.png" name ="6"             ></tasto6>  
+<tasto3  x ="828.0" y = "550.0" l = "64.0" a = "64.0" img = "t3.png" imgS = "t3s.png" name ="3"             ></tasto3> 
+
+<tasto0  x ="895.0"  y = "550.0" l = "64.0" a = "64.0" img = "t0.png" imgS = "t0s.png" name ="0"             ></tasto0>  
+<tasto12 x ="895.0" y = "624.0" l = "64.0" a = "64.0" img = "tDOT.png"   imgS = "tDOTs.png"   name ="."     ></tasto12> 
+<tasto14 x ="895.0" y = "698.0" l = "64.0" a = "64.0" img = "tSLASH.png" imgS = "tSLASHs.png" name ="/"     ></tasto14>
+</params> 
+
+

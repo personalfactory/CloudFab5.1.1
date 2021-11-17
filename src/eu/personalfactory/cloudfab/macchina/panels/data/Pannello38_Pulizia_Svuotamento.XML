@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "83.0"  y = "104.0" l = "154.0" a = "194.0" img = "181.png" imgS = "181s.png" ></But0>
+    <But1  x = "248.0" y = "104.0" l = "154.0" a = "194.0" img = "182.png" imgS = "182s.png" ></But1>
+    <But2  x = "416.0" y = "121.0" l = "68.0" a = "52.0" img = "183.png" imgS = "183s.png" ></But2>
+    <But3  x = "700.0" y = "121.0" l = "68.0" a = "52.0" img = "184.png" imgS = "184s.png" ></But3>
+    <But4  x = "915.0" y = "502.0" l = "94.0" a = "94.0" img = "185.png" imgS = "185s.png" ></But4>
+    <But5  x = "453.0" y = "233.0" l = "86.0" a = "94.0" img = "186.png" imgS = "186s.png" ></But5>
+    <But6  x = "673.0" y = "183.0" l = "86.0" a = "94.0" img = "187.png" imgS = "187s.png" ></But6>
+    <But7  x = "533.0" y = "323.0" l = "86.0" a = "94.0" img = "188.png" imgS = "188s.png" ></But7>
+    <But8  x = "843.0" y = "283.0" l = "86.0" a = "94.0" img = "189.png" imgS = "189s.png" ></But8>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "615.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "645.0" l = "860" a = "160"  f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "100.0" y = "235.0" l = "120" a = "44"  f="20" ></labSimple0>		
+    <labSimple1  x = "265.0" y = "235.0" l = "120" a = "44"  f="20" ></labSimple1> 
+    <!-- Coordinate Label - PESO CONFEZIONE -->   
+    <labSimple2  x = "450.0" y = "130.0" l = "180" a = "36"  f="30" ></labSimple2>     
+    <!-- Coordinate Label - UNITA DI MISURA CONFEZIONE -->   
+    <labSimple3  x = "650.0" y = "130.0" l = "80" a = "36"  f="30" ></labSimple3>   
+     <!-- Coordinate Label - MESSAGGIO OPERATORE -->   
+    <labSimple4  x = "123.0" y = "538.0" l = "600" a = "32"  f="28" ></labSimple4>    
+    <!-- Coordinate Label - PESO REALE CONFEZIONE -->   
+    <labSimple5  x = "180.0" y = "432.0" l = "200" a = "42"  f="36" ></labSimple5>     
+    <!-- Coordinate Label Titoli - NOME PANNELLO --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>	
+    <!-- Coordinate Label Titoli - PESO DESIDERATO CONFEZIONE --> 
+    <labTitle1  x = "416.0" y = "93.0" l = "400" a = "22" f="20" ></labTitle1>
+    <!-- Coordinate Label Titoli - PESO REALE CONFEZIONE --> 
+    <labTitle2  x = "120.0" y = "410.0" l = "400" a = "22" f="20" ></labTitle2>	 			
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "116.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2>   
+    <!-- ELEMENT LABEL SIMPLE PESO CONFEZIONE--> 
+    <colore3 red = "20" green = "20" blue = "20" ></colore3>
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore4 red = "100" green = "20" blue = "20" ></colore4> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux0 x = "409.0" y = "176.0"  img = "117.png" ></labImageAux0> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux1 x = "409.0" y = "176.0"  img = "118.png" ></labImageAux1> 
+    <!-- Image Sfondo Lista materie Prime -->
+    <labImageAux2 x = "409.0" y = "176.0"  img = "119.png" ></labImageAux2> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux3 x = "409.0" y = "176.0"  img = "120.png" ></labImageAux3>
+     <!-- Image Sfondo Dettagli Pesatura--> 
+    <labImageAux4 x = "0.0" y = "0.0"  img = "121.png" ></labImageAux4>
+</params> 

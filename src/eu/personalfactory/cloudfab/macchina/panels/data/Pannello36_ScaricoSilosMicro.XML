@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "110.0"  y = "250.0" l = "280.0" a = "101.0" img = "160.png" imgS = "160s.png" ></But0>
+    <But1  x = "110.0"  y = "360.0" l = "280.0" a = "101.0" img = "161.png" imgS = "161s.png" ></But1>
+    <But2  x = "110.0"  y = "470.0" l = "280.0" a = "101.0" img = "162.png" imgS = "162s.png" ></But2>
+    <But3  x = "310.0"  y = "240.0" l = "399.0" a = "144.0" img = "163.png" imgS = "163s.png" ></But3>
+    <But4  x = "310.0"  y = "420.0" l = "399.0" a = "144.0" img = "164.png" imgS = "164s.png" ></But4>
+    <But5  x = "100.0"  y = "480.0" l = "190.0" a = "102.0" img = "165.png" imgS = "165s.png" ></But5>
+    <But6  x = "315.0"  y = "480.0" l = "190.0" a = "102.0" img = "166.png" imgS = "166s.png" ></But6>
+    <But7  x = "530.0"  y = "480.0" l = "190.0" a = "102.0" img = "167.png" imgS = "167s.png" ></But7>
+    <But8  x = "745.0"  y = "480.0" l = "190.0" a = "102.0" img = "168.png" imgS = "168s.png" ></But8>
+    <But9  x = "230.0"  y = "480.0" l = "280.0" a = "101.0" img = "169.png" imgS = "169s.png" ></But9>
+    <But10 x = "530.0"  y = "480.0" l = "280.0" a = "101.0" img = "169.png" imgS = "169s.png" ></But10>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "615.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "675.0" l = "860" a = "160"  f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "110.0" y = "90.0" l = "600" a = "34"  f="26" ></labSimple0>		
+    <labSimple1  x = "110.0" y = "120.0" l = "600" a = "34"  f="26" ></labSimple1>
+    <labSimple2  x = "310.0" y = "120.0" l = "600" a = "34"  f="26" ></labSimple2>
+    <labSimple3  x = "140.0" y = "280.0" l = "600" a = "40"  f="28" ></labSimple3>		
+    <labSimple4  x = "140.0" y = "390.0" l = "600" a = "40"  f="28" ></labSimple4>
+    <labSimple5  x = "140.0" y = "500.0" l = "600" a = "40"  f="28" ></labSimple5>
+    <labSimple6  x = "340.0" y = "290.0" l = "400" a = "74"  f="36" ></labSimple6>
+    <labSimple7  x = "340.0" y = "450.0" l = "400" a = "74"  f="36" ></labSimple7>
+    <labSimple8  x = "120.0" y = "500.0" l = "140" a = "50"  f="22" ></labSimple8>
+    <labSimple9  x = "335.0" y = "500.0" l = "140" a = "50"  f="22" ></labSimple9>
+    <labSimple10 x = "550.0" y = "500.0" l = "140" a = "50"  f="22" ></labSimple10>
+    <labSimple11 x = "765.0" y = "500.0" l = "140" a = "50"  f="22" ></labSimple11>  
+    <labSimple12 x = "410.0" y = "180.0" l = "500" a = "70"  f="60" ></labSimple12>
+    <labSimple13 x = "410.0" y = "280.0" l = "500" a = "70"  f="60" ></labSimple13>
+    <labSimple14 x = "410.0" y = "380.0" l = "500" a = "70"  f="60" ></labSimple14>  
+    <labSimple15 x = "340.0" y = "220.0" l = "650" a = "160" f="25" ></labSimple15>   
+    <labSimple16 x = "245.0" y = "490.0" l = "500" a = "50"  f="30" ></labSimple16>  
+    <labSimple17 x = "545.0" y = "490.0" l = "650" a = "50"  f="30" ></labSimple17>             
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <labTitle1  x = "440.0" y = "250.0" l = "560" a = "80" f="16" ></labTitle1>
+    <labTitle2  x = "440.0" y = "360.0" l = "560" a = "80" f="16" ></labTitle2>
+    <labTitle3  x = "440.0" y = "470.0" l = "560" a = "80" f="16" ></labTitle3>
+    <labTitle4  x = "110.0" y = "172.0" l = "520" a = "22" f="20" ></labTitle4>	
+    <labTitle5  x = "110.0" y = "274.0" l = "520" a = "22" f="20" ></labTitle5>	
+    <labTitle6  x = "110.0" y = "376.0" l = "520" a = "22" f="20" ></labTitle6>		
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "112.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2>  
+     <!-- ELEMENT LABEL SIMPLE DETTAGLI--> 
+    <colore3 red = "200" green = "120" blue = "20" ></colore3>
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux0 x = "0.0" y = "0.0"  img = "113.png" ></labImageAux0> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux1 x = "0.0" y = "0.0"  img = "114.png" ></labImageAux1> 
+</params> 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0 x = "690.0" y = "100.0" l = "144.0" a = "194.0" img ="100.png" imgS = "100s.png" ></But0> 
+    <But1 x = "860.0" y = "100.0" l = "144.0" a = "194.0" img ="101.png" imgS = "101s.png" ></But1> 
+    <But2 x = "690.0" y = "320.0" l = "144.0" a = "194.0" img ="102.png" imgS = "102s.png" ></But2>
+     <!-- Coordinate Testi Pulsanti --> 
+    <labSimple0 x = "705.0" y = "135.0" l = "160.0" a = "44.0"  f="20" ></labSimple0> 
+    <labSimple1 x = "875.0" y = "135.0" l = "160.0" a = "44.0"  f="20" ></labSimple1> 
+    <labSimple2 x = "705.0" y = "355.0" l = "160.0" a = "44.0"  f="20" ></labSimple2>  
+    <!-- Coordinate JTextLabel --> 
+    <textField x = "130.0" y = "126.0" l = "520.0" a = "48.0"  f="48.0" ></textField>  
+    <!-- Coordinate Label Lista Selezionabile --> 
+    <labPlus0  x = "141.0" y = "190.0" l = "520" a = "40"  f="22" ></labPlus0> 
+    <labPlus1  x = "141.0" y = "216.0" l = "520" a = "40"  f="22" ></labPlus1> 
+    <labPlus2  x = "141.0" y = "242.0" l = "520" a = "40"  f="22" ></labPlus2> 
+    <labPlus3  x = "141.0" y = "268.0" l = "520" a = "40"  f="22" ></labPlus3> 
+    <labPlus4  x = "141.0" y = "294.0" l = "520" a = "40"  f="22" ></labPlus4> 
+    <labPlus5  x = "141.0" y = "320.0" l = "520" a = "40"  f="22" ></labPlus5> 
+    <labPlus6  x = "141.0" y = "346.0" l = "520" a = "40"  f="22" ></labPlus6> 
+    <labPlus7  x = "141.0" y = "372.0" l = "520" a = "40"  f="22" ></labPlus7> 
+    <labPlus8  x = "141.0" y = "398.0" l = "520" a = "40"  f="22" ></labPlus8> 
+    <labPlus9  x = "141.0" y = "424.0" l = "520" a = "40"  f="22" ></labPlus9> 
+    <labPlus10 x = "141.0" y = "450.0" l = "520" a = "40"  f="22" ></labPlus10> 
+    <labPlus11 x = "141.0" y = "476.0" l = "520" a = "40"  f="22" ></labPlus11> 
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0 x = "60.0" y = "555.0" l = "900" a = "24" f="24" ></labHelp0> 	
+    <labHelp1 x = "60.0" y = "585.0" l = "900" a = "180" f="20" ></labHelp1>  
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Label Titoli -->
+    <labTitle0  x = "10.0"  y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <labTitle1  x = "128.0" y = "96.0"  l = "400" a = "30"  f="30" ></labTitle1>
+    <!-- Coordinate Button Info --> 
+    <butInfo x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="tINFO.png" imgS = "tINFOs.png" ></butInfo>
+    <!-- Image Sfondo -->
+    <sfondoImg img = "89.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore -->   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "255" green = "255" blue = "255" ></colore0>
+    <!-- COLORE MESSAGGI AIUTO --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+    <!-- COLORE TESTI PULSANTI --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+</params> 

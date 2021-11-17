@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <!-- PULSANTE 1 da dx verso sx --> 
+    <But0  x = "426.0" y = "258.0"  l = "209.0" a = "90.0" img = "70.png" imgS = "70s.png" ></But0> 
+    <!-- PULSANTE 2 da dx verso sx --> 
+    <But1  x = "590.0" y = "258.0"  l = "209.0" a = "90.0" img = "70.png" imgS = "70s.png" ></But1>  
+    <!-- Coordinate Label Pulsanti --> 
+    <!-- Testo Pulsante 1 da dx verso sx -->
+    <labSimple0  x = "445.0" y = "284.0"  l = "170.0" a = "44.0" f="22" ></labSimple0>
+    <!-- Testo Pulsante 2 da dx verso sx -->
+    <labSimple1  x = "610.0" y = "284.0"  l = "170.0" a = "44.0" f="22" ></labSimple1>
+    <!-- Testo Pulsante 4  Spiegazioni Errore -->
+    <labSimple2  x = "45.0"  y = "80.0"  l = "580.0" a = "160.0" f="14" ></labSimple2> 
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "15.0"  l = "620" a = "30" f="30" ></labTitle0> 				  
+    <!-- Coordinate Immagine di Sfondo --> 
+    <sfondoImg img = "74.jpg" ></sfondoImg> 
+    <!-- Coordinate Immagini Ausiliarie-->
+    <labImageAux0  x = "630.0" y = "95.0"  img = "75.png" ></labImageAux0> 
+    <labImageAux1  x = "630.0" y = "95.0"  img = "76.png" ></labImageAux1>
+     <!-- ELEMENTI LISTA NON SELEZIONABILI -->
+    <colore0 red = "210" green = "210" blue = "210" ></colore0>
+</params> 

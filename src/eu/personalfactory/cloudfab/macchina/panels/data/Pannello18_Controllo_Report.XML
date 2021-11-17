@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Label --> 
+    <labSimple0  x = "180.0"  y = "103.0" l = "340.0" a = "44.0"  f="16" ></labSimple0> 
+    <labSimple1  x = "623.0"  y = "103.0" l = "340.0" a = "44.0"  f="16" ></labSimple1> 
+    <labSimple2  x = "180.0"  y = "144.0" l = "340.0" a = "44.0"  f="16" ></labSimple2> 
+    <labSimple3  x = "623.0"  y = "144.0" l = "340.0" a = "44.0"  f="16" ></labSimple3> 
+    <labSimple4  x = "180.0"  y = "185.0" l = "340.0" a = "44.0"  f="16" ></labSimple4> 
+    <labSimple5  x = "623.0"  y = "185.0" l = "340.0" a = "44.0"  f="16" ></labSimple5> 
+    <labSimple6  x = "180.0"  y = "226.0" l = "340.0" a = "44.0"  f="16" ></labSimple6> 
+    <labSimple7  x = "623.0"  y = "226.0" l = "340.0" a = "44.0"  f="16" ></labSimple7> 
+    <labSimple8  x = "180.0"  y = "267.0" l = "340.0" a = "44.0"  f="16" ></labSimple8> 
+    <labSimple9  x = "623.0"  y = "267.0" l = "340.0" a = "44.0"  f="16" ></labSimple9> 
+    <labSimple10 x = "180.0"  y = "308.0" l = "340.0" a = "44.0"  f="16" ></labSimple10> 
+    <labSimple11 x = "623.0"  y = "308.0" l = "340.0" a = "44.0"  f="16" ></labSimple11> 
+    <labSimple12 x = "180.0"  y = "349.0" l = "340.0" a = "44.0"  f="16" ></labSimple12> 
+    <labSimple13 x = "623.0"  y = "349.0" l = "340.0" a = "44.0"  f="16" ></labSimple13> 
+    <labSimple14 x = "180.0"  y = "390.0" l = "340.0" a = "44.0"  f="16" ></labSimple14> 
+    <labSimple15 x = "623.0"  y = "390.0" l = "340.0" a = "44.0"  f="16" ></labSimple15> 
+    <labSimple16 x = "180.0"  y = "431.0" l = "340.0" a = "44.0"  f="16" ></labSimple16> 
+    <labSimple17 x = "623.0"  y = "431.0" l = "340.0" a = "44.0"  f="16" ></labSimple17> 
+    <labSimple18 x = "180.0"  y = "472.0" l = "340.0" a = "44.0"  f="16" ></labSimple18> 
+    <labSimple19 x = "623.0"  y = "472.0" l = "340.0" a = "44.0"  f="16" ></labSimple19> 
+    <labSimple20 x = "180.0"  y = "513.0" l = "340.0" a = "44.0"  f="16" ></labSimple20>
+    <labSimple21 x = "623.0"  y = "513.0" l = "340.0" a = "44.0"  f="16" ></labSimple21> 
+    <labSimple22 x = "180.0"  y = "554.0" l = "340.0" a = "44.0"  f="16" ></labSimple22> 
+    <labSimple23 x = "623.0"  y = "554.0" l = "340.0" a = "44.0"  f="16" ></labSimple23> 
+    <labSimple24 x = "180.0"  y = "595.0" l = "340.0" a = "44.0"  f="16" ></labSimple24>
+    <labSimple25 x = "623.0"  y = "595.0" l = "340.0" a = "44.0"  f="16" ></labSimple25> 
+    <labSimple26 x = "180.0"  y = "636.0" l = "340.0" a = "44.0"  f="16" ></labSimple26> 
+    <labSimple27 x = "623.0"  y = "636.0" l = "340.0" a = "44.0"  f="16" ></labSimple27> 
+    <labSimple28 x = "180.0"  y = "681.0" l = "340.0" a = "44.0"  f="16" ></labSimple28> 
+    <labSimple29 x = "623.0"  y = "681.0" l = "340.0" a = "44.0"  f="16" ></labSimple29> 
+    <!-- Coordinate Label Titoli -->
+    <!-- TITOLO FINESTRA --> 
+    <labTitle0  x = "10.0" y = "18.0" l = "1000" a = "48" f="48" ></labTitle0>
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Image Ausiliarie -->
+    <labImageAux0  x = "110.0" y = "110.0" img = "70.png" ></labImageAux0> 
+    <labImageAux1  x = "110.0" y = "110.0" img = "71.png" ></labImageAux1>
+    <labImageAux2  x = "553.0" y = "110.0" img = "70.png" ></labImageAux2> 
+    <labImageAux3  x = "553.0" y = "110.0" img = "71.png" ></labImageAux3>
+    <labImageAux4  x = "110.0" y = "151.0" img = "70.png" ></labImageAux4> 
+    <labImageAux5  x = "110.0" y = "151.0" img = "71.png" ></labImageAux5>
+    <labImageAux6  x = "553.0" y = "151.0" img = "70.png" ></labImageAux6> 
+    <labImageAux7  x = "553.0" y = "151.0" img = "71.png" ></labImageAux7>
+    <labImageAux8  x = "110.0" y = "192.0" img = "70.png" ></labImageAux8> 
+    <labImageAux9  x = "110.0" y = "192.0" img = "71.png" ></labImageAux9>
+    <labImageAux10 x = "553.0" y = "192.0" img = "70.png" ></labImageAux10> 
+    <labImageAux11 x = "553.0" y = "192.0" img = "71.png" ></labImageAux11>
+    <labImageAux12 x = "110.0" y = "233.0" img = "70.png" ></labImageAux12> 
+    <labImageAux13 x = "110.0" y = "233.0" img = "71.png" ></labImageAux13>
+    <labImageAux14 x = "553.0" y = "233.0" img = "70.png" ></labImageAux14> 
+    <labImageAux15 x = "553.0" y = "233.0" img = "71.png" ></labImageAux15>
+    <labImageAux16 x = "110.0" y = "274.0" img = "70.png" ></labImageAux16> 
+    <labImageAux17 x = "110.0" y = "274.0" img = "71.png" ></labImageAux17>
+    <labImageAux18 x = "553.0" y = "274.0" img = "70.png" ></labImageAux18> 
+    <labImageAux19 x = "553.0" y = "274.0" img = "71.png" ></labImageAux19>
+    <labImageAux20 x = "110.0" y = "315.0" img = "70.png" ></labImageAux20> 
+    <labImageAux21 x = "110.0" y = "315.0" img = "71.png" ></labImageAux21>
+    <labImageAux22 x = "553.0" y = "315.0" img = "70.png" ></labImageAux22> 
+    <labImageAux23 x = "553.0" y = "315.0" img = "71.png" ></labImageAux23>
+    <labImageAux24 x = "110.0" y = "356.0" img = "70.png" ></labImageAux24> 
+    <labImageAux25 x = "110.0" y = "356.0" img = "71.png" ></labImageAux25>
+    <labImageAux26 x = "553.0" y = "356.0" img = "70.png" ></labImageAux26> 
+    <labImageAux27 x = "553.0" y = "356.0" img = "71.png" ></labImageAux27>
+    <labImageAux28 x = "110.0" y = "397.0" img = "70.png" ></labImageAux28> 
+    <labImageAux29 x = "110.0" y = "397.0" img = "71.png" ></labImageAux29>
+    <labImageAux30 x = "553.0" y = "397.0" img = "70.png" ></labImageAux30> 
+    <labImageAux31 x = "553.0" y = "397.0" img = "71.png" ></labImageAux31>
+    <labImageAux32 x = "110.0" y = "438.0" img = "70.png" ></labImageAux32> 
+    <labImageAux33 x = "110.0" y = "438.0" img = "71.png" ></labImageAux33>
+    <labImageAux34 x = "553.0" y = "438.0" img = "70.png" ></labImageAux34> 
+    <labImageAux35 x = "553.0" y = "438.0" img = "71.png" ></labImageAux35>
+    <labImageAux36 x = "110.0" y = "479.0" img = "70.png" ></labImageAux36> 
+    <labImageAux37 x = "110.0" y = "479.0" img = "71.png" ></labImageAux37> 
+    <labImageAux38 x = "553.0" y = "479.0" img = "70.png" ></labImageAux38> 
+    <labImageAux39 x = "553.0" y = "479.0" img = "71.png" ></labImageAux39> 
+    <labImageAux40 x = "110.0" y = "520.0" img = "70.png" ></labImageAux40> 
+    <labImageAux41 x = "110.0" y = "520.0" img = "71.png" ></labImageAux41> 
+    <labImageAux42 x = "553.0" y = "520.0" img = "70.png" ></labImageAux42> 
+    <labImageAux43 x = "553.0" y = "520.0" img = "71.png" ></labImageAux43> 
+    <labImageAux44 x = "110.0" y = "561.0" img = "70.png" ></labImageAux44>
+    <labImageAux45 x = "110.0" y = "561.0" img = "71.png" ></labImageAux45>
+    <labImageAux46 x = "553.0" y = "561.0" img = "70.png" ></labImageAux46>
+    <labImageAux47 x = "553.0" y = "561.0" img = "71.png" ></labImageAux47>
+    <labImageAux48 x = "110.0" y = "602.0" img = "70.png" ></labImageAux48>
+    <labImageAux49 x = "110.0" y = "602.0" img = "71.png" ></labImageAux49>
+    <labImageAux50 x = "553.0" y = "602.0" img = "70.png" ></labImageAux50>
+    <labImageAux51 x = "553.0" y = "602.0" img = "71.png" ></labImageAux51>
+    <labImageAux52 x = "110.0" y = "643.0" img = "70.png" ></labImageAux52>
+    <labImageAux53 x = "110.0" y = "643.0" img = "71.png" ></labImageAux53>
+    <labImageAux54 x = "553.0" y = "643.0" img = "70.png" ></labImageAux54>
+    <labImageAux55 x = "553.0" y = "643.0" img = "71.png" ></labImageAux55>
+    <labImageAux56 x = "110.0" y = "684.0" img = "70.png" ></labImageAux56>
+    <labImageAux57 x = "110.0" y = "684.0" img = "71.png" ></labImageAux57>
+    <labImageAux58 x = "553.0" y = "684.0" img = "70.png" ></labImageAux58>
+    <labImageAux59 x = "553.0" y = "684.0" img = "71.png" ></labImageAux59>
+    <!-- Image Sfondo -->
+    <sfondoImg img = "69.jpg" ></sfondoImg>  
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "210" green = "210" blue = "210" ></colore0>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>    
+</params> 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params> 
+ <!-- Coordinate Label --> 
+ <labSimple0  x = "120.0" y = "100.0" l = "800.0" a = "600.0" f="26" ></labSimple0> 
+ <!-- Coordinate Label Titoli --> 
+ <labTitle0  x = "10.0"  y = "18.0" l = "820" a = "48" f="48" ></labTitle0>
+ <!-- Coordinate Button Freccia Indietro --> 
+ <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia>
+ <!-- Coordinate Button Info --> 
+ <butInfo x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="tINFO.png" imgS = "tINFOs.png" ></butInfo>	 
+ <!-- Image Sfondo --> 
+ <sfondoImg img = "79.jpg" ></sfondoImg>
+ <!-- Coordinate Colore --> 
+ <!-- ELEMENT LABEL SIMPLE -->
+ <colore0 red = "210" green = "210" blue = "210" ></colore0>    
+ <!-- ELEMENT LABEL TITLE --> 
+ <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+</params> 

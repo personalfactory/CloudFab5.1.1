@@ -1,0 +1,25 @@
+<params>  
+    <!-- Coordinate Pulsanti --> 
+    <!-- PULSANTE ANNULLA--> 
+    <But0  x = "251.0" y = "493.0"  l = "234.0" a = "94.0" img = "103.png" imgS = "103s.png" ></But0> 
+    <!-- PULSANTE CONFERMA --> 
+    <But1  x = "540.0" y = "493.0"  l = "234.0" a = "94.0" img = "104.png" imgS = "104s.png" ></But1>   
+    <!-- Coordinate Label Testi --> 
+    <!-- TESTO PULSNATE ANNULLA -->
+    <labSimple0  x = "261.0" y = "513.0" l = "190.0" a = "44.0" f="34" ></labSimple0> 
+    <!-- TESTO PULSANTE CONFERMA -->
+    <labSimple1  x = "550.0" y = "513.0" l = "190.0" a = "44.0" f="34" ></labSimple1> 
+    <!-- Messaggio -->
+    <labSimple2  x = "202.0" y = "215.0" l = "600.0" a = "400.0" f="38" ></labSimple2> 
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Label Titoli -->
+    <labTitle0  x = "130.0"  y = "94.0" l = "820" a = "48" f="48" ></labTitle0>
+    <!-- Image Sfondo -->
+    <sfondoImg img = "91.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore -->  
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "255" green = "255" blue = "255" ></colore0>
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+</params> 

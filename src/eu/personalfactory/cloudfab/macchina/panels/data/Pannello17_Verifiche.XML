@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <!-- PULSANTI "CONTATTI DI SICUREZZA" --> 
+    <But0  x = "130.0" y = "100.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But0> 
+    <But1  x = "320.0" y = "100.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But1>
+    <!-- PULSANTI "MOTORI COCLEE E MISCELATORE" --> 
+    <But2  x = "130.0" y = "195.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But2>
+    <But3  x = "320.0" y = "195.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But3> 
+    <But4  x = "510.0" y = "195.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But4>
+    <But5  x = "700.0" y = "195.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But5> 
+    <!-- PULSANTI "PANNELLO OPERATORE" --> 
+    <But6  x = "130.0" y = "290.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But6> 
+    <But7  x = "320.0" y = "290.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But7>
+    <But8  x = "510.0" y = "290.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But8>
+    <But9  x = "700.0" y = "290.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But9> 
+    <!-- PULSANTI "BILANCE" -->
+    <But10 x = "130.0" y = "382.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But10> 
+    <But11 x = "320.0" y = "382.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But11>
+    <But12 x = "510.0" y = "382.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But12>
+    <!-- PULSANTI "ATTUATORI" -->
+    <But13 x = "130.0" y = "475.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But13> 
+    <But14 x = "320.0" y = "475.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But14> 
+    <But15 x = "510.0" y = "475.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But15>
+    <But16 x = "700.0" y = "475.0" l = "182.0" a = "61.0" img = "" imgS = "" ></But16>
+     <!-- PULSANTI CONTROLLO TEST -->  
+    <But17 x = "10.0"  y = "651.0" l = "94.0"  a = "114.0" img = "57.png" imgS = "57s.png" ></But17>
+    <But18 x = "920.0" y = "651.0" l = "94.0"  a = "114.0" img = "58.png" imgS = "58s.png" ></But18>
+    <But19 x = "740.0" y = "575.0" l = "164.0" a = "84.0"  img = "59.png" imgS = "59s.png" ></But19>
+    <But20 x = "740.0" y = "675.0" l = "164.0" a = "84.0"  img = "60.png" imgS = "60s.png" ></But20>
+    <But21 x = "40.0"  y = "562.0" l = "70.0"  a = "70.0"  img = "93.png" imgS = "93s.png" ></But21>
+    <But22 x = "40.0"  y = "562.0" l = "70.0"  a = "70.0"  img = "94.png" imgS = "94s.png" ></But22>
+    <But23 x = "740.0" y = "562.0" l = "80.0"  a = "97.0" img = "105.png" imgS = "105s.png" ></But23>
+    <But24 x = "740.0" y = "665.0" l = "80.0"  a = "97.0" img = "106.png" imgS = "106s.png" ></But24>
+    <But25 x = "130.0" y = "680.0" l = "90.0" a = "71.0" img = "112.png" imgS = "112s.png" ></But25>
+    <But26 x = "225.0" y = "680.0" l = "90.0" a = "71.0" img = "113.png" imgS = "113s.png" ></But26>
+    <But27 x = "510.0" y = "100.0" l = "182.0" a = "61.0" img = ""  imgS = "" ></But27>
+    <But28 x = "700.0" y = "100.0" l = "182.0" a = "61.0" img = ""  imgS = "" ></But28>
+    <But29 x = "540.0" y = "654.0" l = "70.0" a = "50.0" img = "116.png" imgS = "116s.png" ></But29>
+    <But30 x = "540.0" y = "706.0" l = "70.0" a = "50.0" img = "117.png" imgS = "117s.png" ></But30>
+    <But31 x = "940.0" y = "444.0" l = "70.0" a = "50.0" img = "120.png" imgS = "120s.png" ></But31>
+    <But32 x = "940.0" y = "496.0" l = "70.0" a = "50.0" img = "121.png" imgS = "121s.png" ></But32> 
+    <But33 x = "330.0" y = "680.0" l = "90.0" a = "71.0" img = "171.png" imgS = "171s.png" ></But33>
+    <But34 x = "425.0" y = "680.0" l = "90.0" a = "71.0" img = "172.png" imgS = "172s.png" ></But34>
+    <!-- PULSANTI VALVOLA --> 
+    <But35 x = "5.0" y = "553.0" l = "110.0" a = "110.0" img = "205.png" imgS = "205s.png" ></But35>
+    <But36 x = "5.0" y = "553.0" l = "110.0" a = "110.0" img = "206.png" imgS = "206s.png" ></But36> 
+    <But37 x = "5.0" y = "553.0" l = "110.0" a = "110.0" img = "207.png" imgS = "207s.png" ></But37>
+    <But38 x = "5.0" y = "553.0" l = "110.0" a = "110.0" img = "208.png" imgS = "208s.png" ></But38> 
+    <But39 x = "40.0" y = "640.0" l = "74.0" a = "56.0" img = "209.png" imgS = "209s.png" ></But39>
+    <But40 x = "40.0" y = "700.0" l = "74.0" a = "56.0" img = "210.png" imgS = "210.png" ></But40> 
+    <!-- Coordinate Label Pulsanti--> 
+    <!-- LABELS PULSANTI "CONTATTI DI SICUREZZA" --> 
+    <labSimple0 x = "135.0" y = "110.0" l = "160.0" a = "50.0"  f="22" ></labSimple0> 
+    <labSimple1 x = "325.0" y = "110.0" l = "160.0" a = "50.0"  f="22" ></labSimple1>
+    <!-- LABELS PULSANTI "MOTORI COCLEE E MISCELATORE" --> 
+    <labSimple2 x = "135.0" y = "201.0" l = "160.0" a = "50.0"  f="22" ></labSimple2>
+    <labSimple3 x = "325.0" y = "201.0" l = "180.0" a = "50.0"  f="22" ></labSimple3> 
+    <labSimple4 x = "515.0" y = "201.0" l = "180.0" a = "50.0"  f="22" ></labSimple4>
+    <labSimple5 x = "705.0" y = "201.0" l = "180.0" a = "50.0"  f="22" ></labSimple5> 
+    <!-- LABELS PULSANTI PANNELLO OPERATORE" --> 
+    <labSimple6 x = "135.0" y = "296.0" l = "180.0" a = "50.0"  f="22" ></labSimple6> 
+    <labSimple7 x = "325.0" y = "296.0" l = "180.0" a = "50.0"  f="22" ></labSimple7>
+    <labSimple8 x = "515.0" y = "296.0" l = "180.0" a = "50.0"  f="22" ></labSimple8>
+    <labSimple9 x = "705.0" y = "296.0" l = "180.0" a = "50.0"  f="22" ></labSimple9> 
+    <!-- LABELS PULSANTI "BILANCE" -->
+    <labSimple10 x = "135.0" y = "391.0" l = "180.0" a = "50.0"  f="22" ></labSimple10> 
+    <labSimple11 x = "325.0" y = "391.0" l = "180.0" a = "50.0"  f="22" ></labSimple11>
+    <labSimple12 x = "515.0" y = "391.0" l = "180.0" a = "50.0"  f="22" ></labSimple12>
+    <!-- LABELS PULSANTI "ATTUATORI" --> 
+    <labSimple13 x = "135.0" y = "485.0" l = "180.0" a = "50.0"  f="22" ></labSimple13> 
+    <labSimple14 x = "325.0" y = "485.0" l = "180.0" a = "50.0"  f="22" ></labSimple14> 
+    <labSimple15 x = "515.0" y = "485.0" l = "180.0" a = "50.0"  f="22" ></labSimple15>
+    <labSimple16 x = "705.0" y = "485.0" l = "180.0" a = "50.0"  f="22" ></labSimple16> 
+    <!-- LABEL MESSAGGIO TEST-->
+    <labSimple17 x = "140.0" y = "620.0" l = "580.0" a = "200.0" f="15" ></labSimple17>
+    <!-- LABEL PRESA DA ATTIVARE -->
+    <labSimple18 x = "630.0" y = "640.0" l = "500.0" a = "200.0" f="120" ></labSimple18>
+     <!-- LABEL PRESA DA ATTIVARE -->
+    <labSimple19 x = "220.0" y = "630.0" l = "500.0" a = "200.0" f="100" ></labSimple19>
+    <!-- LABEL PESO NETTO-->
+    <labSimple20 x = "756.0" y = "585.0" l = "80.0" a = "48.0" f="16" ></labSimple20>
+    <!-- LABEL PESO LORDO -->
+    <labSimple21 x = "756.0" y = "690.0" l = "80.0" a = "48.0" f="16" ></labSimple21>
+    <!-- LABEL PULSANTE START VIBRO -->
+    <labSimple22 x = "150.0" y = "692.0" l = "100.0" a = "48.0" f="20" ></labSimple22>
+    <!-- LABEL PULSANTE STOPVIBRO -->
+    <labSimple23 x = "245.0" y = "692.0" l = "100.0" a = "48.0" f="20" ></labSimple23>
+    <!-- LABEL PULSANTE CONTATTO RIBALTA SACCO -->
+    <labSimple24 x = "515.0" y = "110.0" l = "160.0" a = "50.0"  f="22"  ></labSimple24>
+    <!-- LABEL PULSANTE SCAMBIATORE -->
+    <labSimple25 x = "705.0" y = "110.0" l = "160.0" a = "50.0"  f="22" ></labSimple25>
+    <!-- LABEL PULSANTE PRESA AVANTI -->
+    <labSimple26 x = "552.0" y = "667.0" l = "180.0" a = "50.0"  f="18" ></labSimple26>
+    <!-- LABEL PULSANTE PRESA DIETRO -->
+    <labSimple27 x = "552.0" y = "719.0" l = "180.0" a = "50.0"  f="18" ></labSimple27>
+    <!-- LABEL PULSANTE START VIBRO EL -->
+    <labSimple28 x = "350.0" y = "692.0" l = "80.0" a = "48.0" f="20" ></labSimple28>
+    <!-- LABEL PULSANTE STOPVIBRO EL -->
+    <labSimple29 x = "445.0" y = "692.0" l = "80.0" a = "48.0" f="20" ></labSimple29>
+    <!-- LABEL TITOLO NUMERO APERTURE -->
+    <labSimple30 x = "140.0" y = "670.0" l = "380.0" a = "48.0" f="20" ></labSimple30>
+     <!-- LABEL NUMERO APERTURE -->
+    <labSimple31 x = "285.0" y = "690.0" l = "120.0" a = "64.0" f="60" ></labSimple31>
+     <!-- LABEL TITOLO TEMPO MEDIO APERTURE -->
+    <labSimple32 x = "440.0" y = "670.0" l = "380.0" a = "48.0" f="20" ></labSimple32>
+     <!-- LABEL TEMPO MEDIO APERTURE -->
+    <labSimple33 x = "430.0" y = "690.0" l = "240.0" a = "64.0" f="60" ></labSimple33> 
+     <!-- LABEL STATO TEST ASPIRATORE -->
+    <labSimple34 x = "150.0" y = "690.0" l = "640.0" a = "64.0" f="34" ></labSimple34>
+    <!-- Coordinate Label Titoli -->
+    <!-- TITOLO FINESTRA --> 
+    <labTitle0  x = "10.0" y = "18.0" l = "820" a = "48" f="48" ></labTitle0>
+    <!-- "CONTATTI DI SICUREZZA" --> 
+    <labTitle1  x = "120.0" y = "85.0" l = "820" a = "24" f="16" ></labTitle1> 
+    <!-- "MOTORI COCLEE E MISCELATORE" -->
+    <labTitle2  x = "120.0" y = "176.0" l = "820" a = "24" f="16" ></labTitle2>
+    <!-- "PANNELLO OPERATORE" --> 
+    <labTitle3  x = "120.0" y = "271.0" l = "820" a = "24" f="16" ></labTitle3> 
+    <!-- "BILANCE" --> 
+    <labTitle4  x = "120.0" y = "366.0" l = "820" a = "24" f="16" ></labTitle4> 
+    <!-- "ATTUATORI" -->
+    <labTitle5  x = "120.0" y = "460.0" l = "820" a = "24" f="16" ></labTitle5>  
+    <!-- TITOLO TEST MESSAGGIO -->
+    <labTitle6  x = "140.0" y = "580.0" l = "820" a = "24" f="20" ></labTitle6>  
+    <!-- "ASPIRATORE" --> 
+    <labTitle7  x = "698.0" y = "85.0" l = "820" a = "24" f="16" ></labTitle7>  
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Image Ausiliarie -->
+    <labImageAux0  x = "742.0" y = "600.0" img = "67.png" ></labImageAux0> 
+    <labImageAux1  x = "742.0" y = "600.0" img = "68.png" ></labImageAux1>
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "66.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "240" green = "240" blue = "240" ></colore0>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+    <!-- ELEMENT LABEL SIMPLE DISABLED --> 
+    <colore2 red = "40" green = "40" blue = "40" ></colore2>   
+</params> 

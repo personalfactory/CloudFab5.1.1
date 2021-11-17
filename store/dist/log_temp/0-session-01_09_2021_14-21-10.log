@@ -1,0 +1,2 @@
+[INFO] - 02:21:10:808 - (eu.personalfactory.cloudfab.macchina.utility.CloudFabFrame.<init>) : Creazione Pannello Principale                            OK
+[INFO] - 02:21:12:008 - (eu.personalfactory.cloudfab.macchina.utility.CloudFabFrame.<init>) : Errore durante la creazione delle Persistance Unit - ex{0}

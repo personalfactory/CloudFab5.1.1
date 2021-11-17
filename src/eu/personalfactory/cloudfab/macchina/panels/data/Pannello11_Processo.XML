@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params> 
+ <!-- Coordinate Pulsanti --> 
+ <But0 x = "393.0" y = "413.0" l = "174.0" a = "64.0" img = "44.png" imgS = "44s.png" ></But0>  
+ <!-- Coordinate Button Invio --> 
+ <But1 x = "964.0" y = "550.0" l = "56.0" a = "215.0" img ="45.png" imgS = "45s.png" ></But1> 
+ <!-- Coordinate Button PANIC --> 
+ <But2 x = "2.0" y = "2.0" l = "70.0" a = "70.0" img ="86.png" imgS = "86s.png" ></But2> 
+ <!-- SPEED SCARICO --> 
+ <But3 x = "900.0" y = "600.0" l = "70.0" a = "70.0" img ="87.png" imgS = "87s.png" ></But3> 
+ <!-- SPEED CARICO --> 
+ <But4 x = "938.0" y = "140.0" l = "70.0" a = "70.0" img ="87.png" imgS = "87s.png" ></But4> 
+ <!-- PULSANTE LINEA DIRETTA --> 
+ <But5 x = "2.0" y = "434.0" l = "94.0" a = "94.0" img ="88.png" imgS = "88s.png" ></But5> 
+ <!-- PULSANTE MICRO DOSATORE DIETRO--> 
+ <But6 x = "38.0" y = "156.0" l = "74.0" a = "56.0" img ="95.png" imgS = "95s.png" ></But6> 
+ <!-- PULSANTE MICRO DOSATORE AVANTI --> 
+ <But7 x = "691.0" y = "156.0" l = "74.0" a = "56.0" img ="96.png" imgS = "96s.png" ></But7>
+ <!-- PULSANTE SALTA --> 
+ <But8 x = "858.0" y = "140.0" l = "70.0" a = "70.0" img ="97.png" imgS = "97s.png" ></But8>
+ <!-- PULSANTE START VIBRO FUNGHI --> 
+ <But9 x = "760.0" y = "10.0" l = "80.0" a = "97.0" img ="114.png" imgS = "114s.png" ></But9>
+ <!-- PULSANTE STOP VIBRO FUNGHI  --> 
+ <But10 x = "760.0" y = "10.0" l = "80.0" a = "97.0" img ="115.png" imgS = "115s.png" ></But10> 
+ <!-- PULSANTE DISABILITA TRACCIABILITA --> 
+ <But11 x = "120.0" y = "434.0" l = "94.0" a = "94.0" img ="128.png" imgS = "128s.png" ></But11> 
+ <!-- PULSANTE MULTIFUNZIONE MICRO --> 
+ <But12 x = "517.0" y = "228.0" l = "224.0" a = "170.0" img ="129.png" imgS = "129s.png" ></But12>
+ <!-- PULSANTE FORZA PESATURA AGGIUNTIVA --> 
+ <But13 x = "40.0" y = "434.0" l = "94.0" a = "94.0" img ="130.png" imgS = "130s.png" ></But13> 
+ <!-- ARRESTA ASPIRATORE MANUALE --> 
+ <But14 x = "40.0" y = "234.0" l = "94.0" a = "94.0" img ="139.png" imgS = "139s.png" ></But14> 
+  <!-- NASCONDI ELEMENTI PESA MANUALE --> 
+ <But15 x = "585.0" y = "87.0" l = "64.0" a = "434.0" img ="157.png" imgS = "157s.png" ></But15> 
+ <!-- VISUALIZZA ELEMENTI PESA MANUALE --> 
+ <But16 x = "11.0" y = "368.0" l = "64.0" a = "234.0" img ="158.png" imgS = "158s.png" ></But16> 
+ <!-- ELEMENTI PESA MANUALE - PULSANTE TASTIERA --> 
+ <But17 x = "34.0" y = "433.0" l = "174.0" a = "64.0" img ="159.png" imgS = "159s.png" ></But17> 
+ <!-- PULSANTE START VIBRO FUNGHI --> 
+ <But18 x = "760.0" y = "100.0" l = "80.0" a = "97.0" img ="211.png" imgS = "211s.png" ></But18>
+ <!-- PULSANTE STOP VIBRO FUNGHI  --> 
+ <But19 x = "760.0" y = "100.0" l = "80.0" a = "97.0" img ="212.png" imgS = "212s.png" ></But19> 
+ <!-- Coordinate Label Simple --> 
+ <!-- COMPONENTE IN PESA 0 -->
+ <labSimple0  x = "100.0"  y = "210.0" l = "540.0" a = "20.0"  f="20"></labSimple0> 
+ <!-- PRESA COMPONENTE IN PESA 0 -->
+ <labSimple1  x = "55.0"  y = "208.0" l = "200.0" a = "24.0"  f="24"></labSimple1> 
+ <!-- PESO COMPONENTE IN PESA 0 -->
+ <labSimple2  x = "620.0" y = "208.0" l = "100.0" a = "24.0"  f="24"></labSimple2> 
+ <!-- COMPONENTE IN PESA 1 -->
+ <labSimple3  x = "100.0"  y = "248.0" l = "540.0" a = "20.0"  f="20"></labSimple3> 
+ <!-- PRESA COMPONENTE IN PESA 1 -->
+ <labSimple4  x = "55.0" y = "248.0" l = "200.0" a = "24.0"  f="24"></labSimple4> 
+ <!-- PESO COMPONENTE IN PESA 1 -->
+ <labSimple5  x = "620.0" y = "248.0" l = "100.0" a = "24.0"  f="24"></labSimple5>  
+ <!-- COMPONENTE IN PESA  2 -->
+ <labSimple6  x =  "100.0" y = "288.0" l = "540.0" a = "20.0"  f="20"></labSimple6> 
+ <!-- PRESA COMPONENTE IN PESA 2 -->
+ <labSimple7  x = "55.0" y = "288.0" l = "200.0" a = "24.0"  f="24"></labSimple7> 
+ <!-- PESO COMPONENTE IN PESA 2 -->
+ <labSimple8  x = "620.0" y = "288.0" l = "200.0" a = "24.0"  f="24"></labSimple8>  
+ <!-- COMPONENTE IN PESA  3 -->
+ <labSimple9  x =  "100.0" y = "328.0" l = "540.0" a = "20.0"  f="20"></labSimple9>  
+ <!-- PRESA COMPONENTE IN PESA 3 -->
+ <labSimple10  x = "55.0" y = "328.0" l = "200.0" a = "24.0"  f="24"></labSimple10>  
+ <!-- PESO COMPONENTE IN PESA 3 -->
+ <labSimple11  x = "620.0" y = "328.0" l = "100.0" a = "24.0"  f="24"></labSimple11>  
+ <!-- PESO CARICO  -->
+ <labSimple12  x = "860.0" y = "41.0"  l = "150.0" a = "34.0"  f="34"></labSimple12> 
+ <!-- PESO TOTALE CARICO -->
+ <labSimple13  x = "860.0" y = "104.0" l = "150.0" a = "24.0"  f="24"></labSimple13>  
+ <!-- NUMERO MISCELE PESATE -->
+ <labSimple14  x = "534.0" y = "632.0" l = "150.0" a = "24.0"  f="24"></labSimple14> 
+ <!-- NUMERO MISCELE DA PESARE -->
+ <labSimple15  x = "534.0" y = "582.0" l = "150.0" a = "24.0"  f="24"></labSimple15> 
+  <!-- TESTO PULSANTE MANUALE - LETTORE -->
+ <labSimple16  x = "410.0" y = "432.0" l = "150.0" a = "24.0"  f="24"></labSimple16> 
+ <!-- TESTO PESO SACCHETTO -->
+ <labSimple17  x = "730.0" y = "690.0" l = "150.0" a = "34.0"  f="34"></labSimple17> 
+  <!-- TESTO SACCHETTI DA PESARE -->
+ <labSimple18  x = "534.0" y = "672.0" l = "150.0" a = "24.0"  f="24"></labSimple18> 
+  <!-- TESTO SACCHETTI PESATI -->
+ <labSimple19  x = "534.0" y = "722.0" l = "150.0" a = "24.0"  f="24"></labSimple19> 
+ <!-- TEMPO RESIDUO MISCELAZIONE -->
+ <labSimple20  x = "800.0" y = "400.0" l = "100.0" a = "60.0"  f="50"></labSimple20> 
+ <!-- VALORE DI PESO CORRENTE MICRODOSATORE -->
+ <labSimple21  x = "245.0" y = "318.0" l = "250.0" a = "54.0"  f="42"></labSimple21> 
+ <!-- MICRODOSTORE CORRENTE -->
+ <labSimple22  x = "540.0" y = "250.0" l = "150.0" a = "80.0"  f="72"></labSimple22> 
+ <!-- TESTO PULSANTE MULTIFUNZIONE MICRO -->
+ <labSimple23  x = "540.0" y = "343.0" l = "150.0" a = "40.0"  f="36"></labSimple23> 
+ <!-- START VIBRO -->
+ <labSimple24  x = "782.0" y = "28.0" l = "90.0" a = "60.0"  f="18"></labSimple24> 
+ <!-- STOP VIBRO -->
+ <labSimple25  x = "782.0" y = "128.0" l = "90.0" a = "60.0"  f="18"></labSimple25> 
+ <!-- PANIC -->
+ <labSimple26  x = "12.0" y = "26.0" l = "90.0" a = "20.0"  f="18"></labSimple26>
+ <!-- INGORA PESA -->
+ <labSimple27  x = "871.0" y = "181.0" l = "90.0" a = "20.0"  f="16"></labSimple27>
+ <!-- SPEED SCARICO --> 
+ <labSimple28  x = "911.0" y = "646.0" l = "90.0" a = "20.0"  f="16"></labSimple28>
+ <!-- SPEED CARICO -->
+ <labSimple29  x = "949.0" y = "186.0" l = "90.0" a = "20.0"  f="16"></labSimple29>
+ <!-- BY PASS -->
+ <labSimple30  x = "18.0" y = "494.0" l = "90.0" a = "20.0"  f="18"></labSimple30>
+ <!-- STATO MICRODOSATORE -->
+ <labSimple31  x = "130.0" y = "195.0" l = "850.0" a = "20.0"  f="16"></labSimple31> 
+ <!-- ELEMENTI PESA MANUALE - LABEL TASTIERA -->
+ <labSimple32  x = "56.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple32>
+ <!-- ELEMENTI PESA MANUALE - LABEL AZZERA -->
+ <labSimple33  x = "265.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple33>
+ <!-- ELEMENTI PESA MANUALE - LABEL CONFERMA -->
+ <labSimple34  x = "418.0" y = "454.0" l = "200.0" a = "28.0"  f="24"></labSimple34> 
+ <!-- ELEMENTI PESA MANUALE - LABEL COMPONENTE DA PESARE -->
+ <labSimple35  x = "60.0" y = "233.0" l = "500.0" a = "28.0"  f="24"></labSimple35>
+ <!-- ELEMENTI PESA MANUALE - LABEL PESO TEORICO -->
+ <labSimple36  x = "265.0" y = "293.0" l = "200.0" a = "28.0"  f="24"></labSimple36>
+  <!-- ELEMENTI PESA MANUALE - LABEL PESO REALE -->
+ <labSimple37  x = "265.0" y = "366.0" l = "200.0" a = "28.0"  f="24"></labSimple37> 
+ <!-- MICRODOSATURA CONFIG -->
+ <labSimple38  x = "20.0" y = "125.0" l = "400.0" a = "20.0"  f="12"></labSimple38> 
+ <!-- Coordinate Label Title -->  
+ <labTitle0  x = "80.0" y = "2.0"  l = "820" a = "48" f="44" ></labTitle0>
+ <labTitle1  x = "20.0" y = "100.0" l = "600" a = "24" f="24" ></labTitle1>
+ <labTitle2  x = "20.0" y = "140.0" l = "450" a = "24" f="24" ></labTitle2>  
+ <labTitle3  x = "862.0" y = "22.0" l = "150" a = "32" f="16" ></labTitle3> 
+ <labTitle4  x = "862.0" y = "85.0" l = "150" a = "28" f="14" ></labTitle4>
+ <!-- TITOLO MISCELE PESATE -->
+ <labTitle5  x = "349.0" y = "582.0" l = "250.0" a = "24.0"  f="24"></labTitle5> 
+ <!-- TITOLO MISCELE DA PESARE -->
+ <labTitle6  x = "349.0" y = "632.0" l = "250.0" a = "24.0"  f="24"></labTitle6> 
+  <!-- TITOLO TEXT LABEL -->
+ <labTitle7  x = "44.0" y = "425.0" l = "350" a = "24" f="24" ></labTitle7>
+ <!-- TITOLO PESO SACCHETTO -->
+ <labTitle8  x = "730.0" y = "670.0" l = "350" a = "16" f="16" ></labTitle8>
+ <!-- TITOLO CONFEZIONI DA PESARE -->
+ <labTitle9  x = "349.0" y = "672.0" l = "350" a = "24" f="24" ></labTitle9>
+  <!-- TITOLO CONFEZIONI PESATI -->
+ <labTitle10  x = "349.0" y = "722.0" l = "350" a = "24" f="24" ></labTitle10>
+ <!-- TITOLO MISCELE -->
+ <labTitle11  x = "156.0" y = "599.0" l = "350" a = "30" f="30" ></labTitle11>
+ <!-- TITOLO CONFEZIONI -->
+ <labTitle12  x = "156.0" y = "702.0" l = "350" a = "30" f="30" ></labTitle12>
+ <!-- MICRODOSATORE CORRENTE -->
+ <labTitle13  x = "130.0" y = "164.0" l = "850" a = "28" f="26" ></labTitle13>
+ <!-- MICRODOSATORE PESO DESIDERATO -->
+ <labTitle14  x = "54.0" y = "250.0" l = "120" a = "60" f="20" ></labTitle14>
+ <!-- MICRODOSATORE PESO ATTUALE -->
+ <labTitle15  x = "66.0" y = "330.0" l = "150" a = "36" f="28" ></labTitle15>
+ <!-- NOME/CODICE PRODOTTO -->
+ <labTitle16  x = "80.0" y = "48.0"  l = "820" a = "18" f="20" ></labTitle16>
+ <!-- MICRODOSATORE PESO ATTUALE -->
+ <labTitle17  x = "238.0" y = "250.0"  l = "120" a = "40" f="18" ></labTitle17>
+ <!-- ELEMENTI PESA MANUALE - PESA MANUALE -->
+ <labTitle18  x = "34.0" y = "104.0"  l = "500" a = "52" f="48" ></labTitle18>
+  <!-- ELEMENTI PESA MANUALE - COMPONENTE DA PESARE -->
+ <labTitle19  x = "60.0" y = "188.0"  l = "500" a = "32" f="30" ></labTitle19>
+ <!-- ELEMENTI PESA MANUALE - CODICE COMPONENTE / DA PESARE -->
+ <labTitle20  x = "60.0" y = "292.0"  l = "500" a = "32" f="30" ></labTitle20>
+ <!-- ELEMENTI PESA MANUALE - PESO REALE -->
+ <labTitle21  x = "51.0" y = "366.0"  l = "500" a = "32" f="30" ></labTitle21>
+ <!-- ELEMENTI PESA MANUALE - UNITA DI MISURA DA PESARE -->
+ <labTitle22  x = "520.0" y = "292.0"  l = "500" a = "32" f="30" ></labTitle22>
+ <!-- ELEMENTI PESA MANUALE - UNITA DI MISURA PESO REALE -->
+ <labTitle23  x = "520.0" y = "366.0"  l = "500" a = "32" f="30" ></labTitle23>
+ <!-- Coordinate Immagini Ausiliarie-->
+  <!-- Image Dettagli Carico --> 
+ <labImageAux0 x = "852.0" y = "10.0"  img = "22.png" ></labImageAux0> 
+ <labImageAux1 x = "29.0"  y = "192.0" img = "21.png" ></labImageAux1> 
+ <!-- Image Apertura Valvola Carico --> 
+ <labImageAux2 x = "0.0"   y = "0.0"   img = "34.png" ></labImageAux2>
+ <!-- Image Sfondo Codice --> 
+ <labImageAux3  x = "23.0"  y = "408.0" img = "24.png" ></labImageAux3> 
+ <!-- Image Lettura Codice Chimica --> 
+ <labImageAux4  x = "0.0"   y = "0.0"   img = "25.png" ></labImageAux4> 
+ <!-- Animazione Apertura Sportello --> 
+ <labImageAux5  x = "0.0"   y = "0.0"   img = "26.png" ></labImageAux5> 
+ <labImageAux6  x = "0.0"   y = "0.0"   img = "27.png" ></labImageAux6> 
+ <labImageAux7  x = "0.0"   y = "0.0"   img = "28.png" ></labImageAux7> 
+ <!-- Animazione Inserimento Chimica Colore --> 
+ <labImageAux8  x = "0.0"   y = "0.0"   img = "29.png" ></labImageAux8> 
+ <labImageAux9  x = "0.0"   y = "0.0"   img = "30.png" ></labImageAux9>  
+ <labImageAux10 x = "0.0"   y = "0.0"   img = "38.png" ></labImageAux10>
+ <!-- Animazione Posizionamento Sacco -->  
+ <labImageAux11 x = "0.0"   y = "0.0"   img = "31.png" ></labImageAux11> 
+ <labImageAux12 x = "0.0"   y = "0.0"   img = "32.png" ></labImageAux12> 
+ <!-- Image Blocca Sacco -->
+ <labImageAux13 x = "0.0"   y = "0.0"   img = "33.png" ></labImageAux13>   
+ <!-- Image Insacco --> 
+ <labImageAux14 x = "720.0" y = "654.0" img = "35.png" ></labImageAux14> 
+ <labImageAux15 x = "0.0"   y = "0.0"   img = "55.png" ></labImageAux15>  
+ <labImageAux16 x = "0.0"   y = "0.0"   img = "56.png" ></labImageAux16>
+ <!-- Image Sfondo Tastiera -->
+ <labImageAux17 x = "0.0"   y = "0.0"   img = "37.png" ></labImageAux17> 
+ <!-- Animazione Carico --> 
+ <labImageAux18 x = "0.0"   y = "0.0"   img = "39.png" ></labImageAux18>
+ <labImageAux19 x = "0.0"   y = "0.0"   img = "40.png" ></labImageAux19> 
+ <labImageAux20 x = "0.0"   y = "0.0"   img = "41.png" ></labImageAux20> 
+ <labImageAux21 x = "0.0"   y = "0.0"   img = "42.png" ></labImageAux21> 
+ <!-- Animazione Miscelazione --> 
+ <labImageAux22 x = "0.0"   y = "0.0"   img = "43.png" ></labImageAux22> 
+ <labImageAux23 x = "0.0"   y = "0.0"   img = "44.png" ></labImageAux23>  
+ <labImageAux24 x = "0.0"   y = "0.0"   img = "45.png" ></labImageAux24> 
+ <labImageAux25 x = "0.0"   y = "0.0"   img = "46.png" ></labImageAux25> 
+ <!-- Image Sfondo Dettaglio Produzione -->
+ <labImageAux26 x = "0.0"   y = "0.0"   img = "48.png" ></labImageAux26> 
+ <!-- Image Ribalta -->
+ <labImageAux27 x = "0.0"   y = "0.0"   img = "36.png" ></labImageAux27>
+ <!-- Image Sfondo Timer Miscelatore -->
+ <labImageAux28 x = "0.0"   y = "0.0"   img = "88.png" ></labImageAux28>
+  <!-- Image Sfondo Microdosatore -->
+ <labImageAux29 x = "0.0"   y = "0.0"   img = "95.png" ></labImageAux29>
+ <!-- Image Sfondo Pesa Manuale - Image A -->
+ <labImageAux30 x = "0.0"   y = "0.0"   img = "110.png" ></labImageAux30>
+ <!-- Image Sfondo Pesa Manuale - Image B -->
+ <labImageAux31 x = "0.0"   y = "0.0"   img = "111.png" ></labImageAux31>
+ <!-- Coordinate Label Titolo Progresso --> 
+ <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0> 
+  <!-- Image Sfondo --> 
+ <sfondoImg img = "17.jpg" ></sfondoImg>  
+ <!-- Coordinate JTextLabel --> 
+ <textField x = "55.0" y = "495.0" l = "480.0" a = "24.0"  f="24.0" ></textField> 
+ <!-- Coordinate JTextLabel CODICE PESA MANUALE --> 
+ <textField0 x = "55.0" y = "335.0" l = "620.0" a = "30.0"  f="28.0" ></textField0> 
+ <!-- Coordinate Colore --> 
+ <!-- ELEMENTI LABEL SIMPLE -->
+ <colore0 red = "220" green = "220" blue = "220" ></colore0> 
+ <!-- ELEMENT LABEL TITLE --> 
+ <colore1 red = "240" green = "240" blue = "240" ></colore1> 
+ <!-- ELEMENTI LABEL SIMPLE PULSANTI -->
+ <colore2 red = "20" green = "20" blue = "20" ></colore2> 
+ <!-- STATO MICRO 0 -CONFIG: MICRODOSATORE CONFIGURATO -->
+ <colore3 red = "255" green = "255" blue = "51" ></colore3> 
+ <!-- STATO MICRO 1 - RUN: MICRODOSATURA IN CORSO-->
+ <colore4 red = "100" green = "255" blue = "100" ></colore4> 
+ <!-- STATO MICRO 2 - PAUSED: MICRODOSATURA SOSPESA  -->
+ <colore5 red = "80" green = "160" blue = "255" ></colore5> 
+ <!-- STATO MICRO 3 - END: MICRODOSATURA COMPLETATA -->
+ <colore6 red = "180" green = "120" blue = "160" ></colore6> 
+ <!-- STATO MICRO 4 - EMPTY: MICRODOSATURA INTERROTTA PER COCLEA VUOTA-->
+ <colore7 red = "250" green = "120" blue = "80" ></colore7> 
+ <!-- STATO MICRO 4 - ERRORE MICRODOSATURA-->
+ <colore8 red = "255" green = "0" blue = "0" ></colore8> 
+ <!-- ELEMENTI LABEL SIMPLE -->
+ <colore9 red = "20" green = "20" blue = "20" ></colore9> 
+</params> 

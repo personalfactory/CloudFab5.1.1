@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0 x = "453.0" y = "233.0" l = "86.0"  a = "94.0"  img = "186.png" imgS = "186s.png" ></But0>
+    <But1 x = "673.0" y = "183.0" l = "86.0"  a = "94.0"  img = "187.png" imgS = "187s.png" ></But1>
+    <But2 x = "533.0" y = "323.0" l = "86.0"  a = "94.0"  img = "188.png" imgS = "188s.png" ></But2>
+    <But3 x = "843.0" y = "283.0" l = "86.0"  a = "94.0"  img = "189.png" imgS = "189s.png" ></But3>
+    <But4 x = "83.0"  y = "104.0" l = "154.0" a = "194.0" img = "193.png" imgS = "193s.png" ></But4>
+    <But5 x = "248.0" y = "104.0" l = "154.0" a = "194.0" img = "194.png" imgS = "194s.png" ></But5>
+    <But6 x = "83.0"  y = "310.0" l = "154.0" a = "194.0" img = "195.png" imgS = "195s.png" ></But6>
+    <But7 x = "248.0" y = "310.0" l = "154.0" a = "194.0" img = "196.png" imgS = "196s.png" ></But7>
+    <But8 x = "915.0" y = "502.0" l = "94.0"  a = "94.0"  img = "185.png" imgS = "185s.png" ></But8>
+    
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "615.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "645.0" l = "860" a = "160" f="20" ></labHelp1>	 	
+    
+    
+    <!-- Coordinate Label - APERTURA VALVOLA --> 
+    <labSimple0  x = "100.0" y = "225.0" l = "125" a = "68" f="20" ></labSimple0> 
+    <!-- Coordinate Label - BLOCCA SACCHETTO -->                                                             		
+    <labSimple1  x = "265.0" y = "225.0" l = "125" a = "68" f="20" ></labSimple1> 
+    <!-- Coordinate Label - ASPIRATORE -->   
+    <labSimple2  x = "100.0" y = "415.0" l = "125" a = "68" f="20" ></labSimple2>     
+    <!-- Coordinate Label - VIBRATORE BILANCIA CARICO -->    
+    <labSimple3  x = "265.0" y = "415.0" l = "125" a = "68" f="20" ></labSimple3>  
+    <!-- Coordinate Label - MESSAGGIO OPERATORE -->   
+    <labSimple4  x = "123.0" y = "538.0" l = "600" a = "32" f="28" ></labSimple4>  
+    <!-- Coordinate Label - MESSAGGIO OPERATORE -->   
+    <labSimple5  x = "820.0" y = "510.0" l = "60" a = "82" f="80" ></labSimple5>
+    
+    
+    
+    <!-- Coordinate Label Titoli - NOME PANNELLO --> 
+    <labTitle0  x = "10.0"  y = "18.0"   l = "820" a = "48" f="48" ></labTitle0>	
+    <labImageAux0 x = "409.0" y = "176.0"  img = "117.png" ></labImageAux0> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux1 x = "409.0" y = "176.0"  img = "118.png" ></labImageAux1> 
+    <!-- Image Sfondo Lista materie Prime -->
+    <labImageAux2 x = "409.0" y = "176.0"  img = "119.png" ></labImageAux2> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux3 x = "409.0" y = "176.0"  img = "120.png" ></labImageAux3>                                               			
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "125.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2>    
+</params> 

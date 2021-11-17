@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "173.0"  y = "230.0" l = "220.0" a = "164.0" img = "180.png" imgS = "180s.png" ></But0>
+    <But1  x = "440.0"  y = "230.0" l = "220.0" a = "164.0" img = "178.png" imgS = "178s.png" ></But1>
+    <But2  x = "707.0"  y = "230.0" l = "220.0" a = "164.0" img = "179.png" imgS = "179s.png" ></But2>
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "560.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "595.0" l = "860" a = "160"  f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "192.0" y = "319.0" l = "180" a = "52"  f="22" ></labSimple0>		
+    <labSimple1  x = "459.0" y = "319.0" l = "180" a = "52"  f="22" ></labSimple1>  
+    <labSimple2  x = "726.0" y = "319.0" l = "180" a = "52"  f="22" ></labSimple2>           
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>		
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "115.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "240" green = "240" blue = "240" ></colore1>   
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2>  
+     <!-- ELEMENT LABEL SIMPLE DETTAGLI--> 
+    <colore3 red = "200" green = "120" blue = "20" ></colore3>
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux0 x = "0.0" y = "0.0"  img = "113.png" ></labImageAux0> 
+    <!-- Image Sfondo Lista materie Prime --> 
+    <labImageAux1 x = "0.0" y = "0.0"  img = "114.png" ></labImageAux1> 
+</params> 

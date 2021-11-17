@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "156.0" y = "102.0" l = "369.0" a = "154.0" img = "72.png" imgS = "72s.png" ></But0>
+    <But1  x = "593.0" y = "102.0" l = "369.0" a = "154.0" img = "73.png" imgS = "73s.png" ></But1>
+    <But2  x = "156.0" y = "312.0" l = "369.0" a = "154.0" img = "74.png" imgS = "74s.png" ></But2> 
+    <But3  x = "593.0" y = "312.0" l = "369.0" a = "154.0" img = "75.png" imgS = "75s.png" ></But3>
+    <But4  x = "24.0"  y = "598.0" l = "234.0" a = "149.0" img = "98.png" imgS = "98s.png" ></But4> 
+    <But5  x = "271.0" y = "598.0" l = "234.0" a = "149.0" img = "99.png" imgS = "99s.png" ></But5> 
+    <!-- Coordinate Label --> 
+    <labSimple0  x = "176.0" y = "194.0" l = "280.0" a = "44.0" f="35" ></labSimple0> 
+    <labSimple1  x = "176.0" y = "404.0" l = "280.0" a = "44.0" f="35" ></labSimple1>  
+    <labSimple2  x = "610.0" y = "194.0" l = "280.0" a = "44.0" f="35" ></labSimple2>    
+    <labSimple3  x = "610.0" y = "404.0" l = "280.0" a = "44.0" f="35" ></labSimple3>  
+    <labSimple4  x = "41.0"  y = "700.0" l = "280.0" a = "44.0" f="26" ></labSimple4>    
+    <labSimple5  x = "288.0" y = "700.0" l = "280.0" a = "44.0" f="26" ></labSimple5>  
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Coordinate Label Titoli -->
+    <labTitle0  x = "10.0"  y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <labTitle1  x = "10.0"  y = "506.0"  l = "820" a = "48" f="48" ></labTitle1>
+    
+    <!-- Image Sfondo -->
+    <sfondoImg img = "73.jpg" ></sfondoImg>
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE -->
+    <colore0 red = "20" green = "20" blue = "20" ></colore0>    
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore1 red = "250" green = "250" blue = "250" ></colore1>   
+</params> 

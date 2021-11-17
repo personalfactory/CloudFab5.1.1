@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<params>
+    <!-- Coordinate Pulsanti --> 
+    <But0  x = "450.0"  y = "260.0" l = "240.0" a = "130.0" img = "174.png" imgS = "174s.png" ></But0>
+    <But1  x = "700.0"  y = "260.0" l = "240.0" a = "130.0" img = "175.png" imgS = "175s.png" ></But1>
+    <But2  x = "450.0"  y = "400.0" l = "240.0" a = "130.0" img = "176.png" imgS = "176s.png" ></But2>
+    <But3  x = "700.0"  y = "400.0" l = "240.0" a = "130.0" img = "177.png" imgS = "177s.png" ></But3>
+    
+    <!-- Coordinate Label Messaggio Aiuto -->   
+    <labHelp0  x = "60.0"  y = "505.0" l = "400" a = "24"  f="24" ></labHelp0>
+    <labHelp1  x = "60.0"  y = "555.0" l = "860" a = "160"  f="20" ></labHelp1>	 	
+    <!-- Coordinate Label Pulsanti --> 
+    <labSimple0  x = "110.0" y = "130.0" l = "800" a = "90"  f="80" ></labSimple0>		
+    <labSimple1  x = "472.0" y = "275.0" l = "200" a = "48"  f="22" ></labSimple1>
+    <labSimple2  x = "722.0" y = "275.0" l = "200" a = "48"  f="22" ></labSimple2>
+    <labSimple3  x = "472.0" y = "415.0" l = "200" a = "48"  f="22" ></labSimple3>
+    <labSimple4  x = "722.0" y = "415.0" l = "200" a = "48"  f="22" ></labSimple4>	
+    <!-- Coordinate Label Titoli --> 
+    <labTitle0  x = "10.0" y = "18.0"  l = "820" a = "48" f="48" ></labTitle0>
+    <!-- Coordinate Label Titoli --> 
+    <labTitle1  x = "100.0" y = "80.0"  l = "820" a = "48" f="32" ></labTitle1>
+    <!-- Coordinate Label Titoli --> 
+    <labTitle2  x = "120.0" y = "300.0"  l = "320" a = "60" f="28" ></labTitle2>
+    <!-- Coordinate Label Titoli --> 
+    <labTitle3  x = "120.0" y = "440.0"  l = "320" a = "60" f="28" ></labTitle3>
+    <!-- Coordinate Label Titolo Progresso --> 
+    <labProg0  x = "878.0" y = "10.0" l = "140" a = "54"  f="45" ></labProg0>				
+    <!-- Coordinate Button Freccia Indietro --> 
+    <butFreccia x = "15.0" y = "230.0" l = "71.0" a = "181.0" img ="12.png" imgS = "12s.png" ></butFreccia> 
+    <!-- Image Sfondo --> 
+    <sfondoImg img = "109.jpg" ></sfondoImg> 
+    <!-- Coordinate Colore --> 
+    <!-- ELEMENT LABEL SIMPLE --> 
+    <colore0 red = "240" green = "240" blue = "240" ></colore0> 
+    <!-- ELEMENT LABEL HELP --> 
+    <colore1 red = "20" green = "20" blue = "20" ></colore1>   
+    <!-- ELEMENT LABEL TITLE --> 
+    <colore2 red = "240" green = "240" blue = "240" ></colore2> 
+</params> 
